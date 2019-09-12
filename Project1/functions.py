@@ -12,6 +12,15 @@ def sep_breeds(i):
     breed = i
     if '/' in i:
         j = breed.split('/')
-        print(j[0])
         breed = j[0] + ' Mix'
     return breed
+
+def clean(i):
+    living = ['Rto-Adopt','Adoption','Return to Owner']
+    dead = ['Died','Missing','Euthanasia','Disposal']
+    
+    if i in living:
+        i = 'Positive Outcome'
+    if i in dead:
+        i = 'Negative Outcome'
+    return i

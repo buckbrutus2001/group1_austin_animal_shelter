@@ -1,0 +1,653 @@
+,formatted_address,input_string,latitude,longitude,number_of_results,postcode,status
+0,"1501 FM973, Austin, TX 78725, USA",1501 S Fm 973 in Austin (TX),30.2220302,-97.6335725,1,78725,OK
+1,"E Stassney Ln & S Pleasant Valley Rd, Austin, TX 78744, USA",East Pleasant Valley And Stassney in Austin (TX),30.1940034,-97.74473669999999,1,78744,OK
+2,"4800 Cottonwood St, Austin, TX 78744, USA",4800 Cottonwood St in Austin (TX),30.1965928,-97.7332472,1,78744,OK
+3,"700 Guadalupe St, Austin, TX 78701, USA",Guadalupe/St. Johns in Austin (TX),30.2704002,-97.7461268,2,78701,OK
+4,"4200 Smith School Rd, Austin, TX 78744, USA",4200 Smith School Rd in Austin (TX),30.1928347,-97.7152788,1,78744,OK
+5,"11699 James B Connolly Ln, Austin, TX 78748, USA",11699 James B Connolly Ln in Austin (TX),30.1507081,-97.8378291,1,78748,OK
+7,"Sandshof Dr & Loyola Ln, Austin, TX 78724, USA",Loyola And Sandshof in Austin (TX),30.2989395,-97.6456121,1,78724,OK
+8,"15207 Tacon Ln, Pflugerville, TX 78660, USA",15207 Tacon Ln in Pflugerville (TX),30.4415189,-97.65502289999999,1,78660,OK
+9,"11204 Liberty Farms Dr, Austin, TX 78754, USA",11204 Liberty Farms Drive in Austin (TX),30.3610045,-97.64186339999999,1,78754,OK
+10,"7619 E Ben White Blvd, Austin, TX 78741, USA",7619 E Ben White Blvd in Austin (TX),30.2172074,-97.6917385,1,78741,OK
+11,"Elfen Way, Austin, TX 78724, USA",Elfen Way in Austin (TX),30.2835394,-97.6272394,1,78724,OK
+12,"2115 Campfield Pkwy, Austin, TX 78745, USA",2115 Campfield Pkwy in Austin (TX),30.19075909999999,-97.8171866,1,78745,OK
+13,"2201 Montopolis Dr, Austin, TX 78741, USA",2201 Montopolis in Austin (TX),30.2221438,-97.7042472,1,78741,OK
+14,"4715 S Congress Ave, Austin, TX 78745, USA",4715 S Congress in Austin (TX),30.2144796,-97.7686872,1,78745,OK
+15,"13425 Coomes Dr, Del Valle, TX 78617, USA",13425 Coomes Dr in Del Valle (TX),30.17043,-97.61207830000001,1,78617,OK
+16,"5630 Wagon Train Rd, Austin, TX 78749, USA",5630 Wagon Train Rd in Austin (TX),30.2228981,-97.86180809999999,1,78749,OK
+17,"704 Cuernavaca Dr N, Austin, TX 78733, USA",704 Cuernavaca Dr N in Austin (TX),30.3321203,-97.8689927,1,78733,OK
+18,"3406 Catalina Dr, Austin, TX 78741, USA",3406 Catalina in Austin (TX),30.21891969999999,-97.7391028,1,78741,OK
+19,"20412 Keilman Ln, Pflugerville, TX 78660, USA",20412 Keilman Ln in Travis (TX),30.491573,-97.59187569999999,1,78660,OK
+20,"7901 Metropolis Dr, Austin, TX 78744, USA",7901 Metrololis Dr in Austin (TX),30.2056688,-97.69059349999999,1,78744,OK
+22,"W Dittmar Rd & Forest Wood Rd, Austin, TX 78745, USA",Forest Wood/Dittmar in Austin (TX),30.1857738,-97.80149,1,78745,OK
+23,"600 W Carrie Manor St, Manor, TX 78653, USA",600 W Carrie Manor St in Travis (TX),30.3402471,-97.563749,1,78653,OK
+24,"10100 Wolftrap Dr, Austin, TX 78749, USA",10100 Wolftrap Dr in Austin (TX),30.1847609,-97.85618819999999,1,78749,OK
+25,"Autumn Bay Dr & Montezuma St, Austin, TX 78744, USA",Autumn Bay Dr And Montezuma St in Austin (TX),30.1984437,-97.69717399999999,1,78744,OK
+28,"5118 Heflin Ln, Austin, TX 78721, USA",5118 Heflin Ln in Austin (TX),30.2827921,-97.6766535,1,78721,OK
+29,,3300 Killingsworth Ln. #307 in Pflugerville (TX),,,0,,REQUEST_DENIED
+31,"8000 Taza Trail, Austin, TX 78724, USA",8000 Taza Ln in Travis (TX),30.285173,-97.63864,1,78724,OK
+32,"W Dittmar Rd & Dempsey Ln, Austin, TX 78748, USA",West Dittmar And Dempsey Lane in Austin (TX),30.1855116,-97.8095457,1,78748,OK
+33,"7601 Daffan Ln, Austin, TX 78724, USA",7601 Daffan Ln in Austin (TX),30.3135758,-97.62565579999999,1,78724,OK
+34,"15100 Stave Oak Ln, Austin, TX 78724, USA",15100 Stave Oak Lane in Austin (TX),30.2523304,-97.580824,1,78724,OK
+35,"Barton Point Dr, Austin, TX 78733, USA",Barton Point Drive in Austin (TX),30.2957882,-97.89618349999999,1,78733,OK
+36,"8010 N Interstate Hwy 35, Austin, TX 78753, USA",8010 N Ih 35 in Austin (TX),30.3429819,-97.6991178,1,78753,OK
+37,"6430 S IH 35 Frontage Rd, Austin, TX 78745, USA",6430 S Ih 35 Frontage Rd in Austin (TX),30.1913549,-97.77102219999999,1,78745,OK
+38,"400 W Anderson Ln, Austin, TX 78752, USA",400 West Anderson in Austin (TX),30.346493,-97.70742,1,78752,OK
+39,,Outside Jurisdiction,,,0,,ZERO_RESULTS
+40,"6118 Fairway St, Austin, TX 78741, USA",6118 Fairway Street in Austin (TX),30.2295189,-97.70241519999999,1,78741,OK
+41,"4106 N Lamar Blvd, Austin, TX 78756, USA",4106 N Lamar Blvd in Austin (TX),30.3094768,-97.7407154,1,78756,OK
+42,"11609 Raymond C Ewry Ln, Austin, TX 78748, USA",11609 Raymond C. Ewry in Austin (TX),30.1520053,-97.8410237,1,78748,OK
+43,"14745 Merrilltown Dr, Austin, TX 78728, USA",Merrilltown Drive And Mopac Expressway in Austin (TX),30.4490092,-97.6931467,1,78728,OK
+44,"Riverstone Dr & Garcreek Cir, Austin, TX 78724, USA",Garcreek Circle And Riverstone Drive in Austin (TX),30.2933925,-97.63032969999999,1,78724,OK
+47,"7400 US-290, Austin, TX 78749, USA",7400 Us-290 in Austin (TX),30.2327357,-97.87801809999999,1,78749,OK
+48,"14400 Harris Ridge Blvd, Pflugerville, TX 78660, USA",14400 Harris Ridge Blvd in Travis (TX),30.42046359999999,-97.6447377,1,78660,OK
+49,"1620 Old Lockhart Rd, Buda, TX 78610, USA",1620 Old Lockhart Road in Travis (TX),30.0791584,-97.73188940000001,1,78610,OK
+50,"Turnstone Dr & S Pleasant Valley Rd, Austin, TX 78744, USA",Turnstone And Pleasant Valley in Austin (TX),30.1848952,-97.74500289999999,1,78744,OK
+51,"4411 Whispering Valley Dr, Austin, TX 78727, USA",4411 Whispering Valley in Austin (TX),30.4134834,-97.7307623,1,78727,OK
+52,"10506 Barr Ln, Austin, TX 78754, USA",10506 Barr Ln in Travis (TX),30.3503601,-97.64343989999999,1,78754,OK
+53,"6500 E William Cannon Dr, Austin, TX 78744, USA",6500 E William Cannon Dr in Austin (TX),30.168598,-97.736875,1,78744,OK
+54,"6808 Montana St, Austin, TX 78741, USA",6808 Montana St in Austin (TX),30.2304512,-97.69320160000001,1,78741,OK
+55,"14707 Noya Dr, Austin, TX 78728, USA",14707 Noya Dr in Travis (TX),30.44858189999999,-97.69044509999999,1,78728,OK
+57,"Mossycup Ln & Netleaf Rd, Forest Bluff, TX 78724, USA",Netleaf Rd And Mossycup Ln in Austin (TX),30.2549711,-97.58054489999999,1,78724,OK
+58,"116 E Parsons St, Manor, TX 78653, USA",116 E Parsons St in Austin (TX),30.3407068,-97.5570305,1,78653,OK
+59,"1414 Gorham St, Austin, TX 78758, USA",1414 Gorham Street in Austin (TX),30.3913941,-97.6944314,1,78758,OK
+60,"19304 Blake Manor Rd, Manor, TX 78653, USA",19304 Black Manor Rd in Travis (TX),30.285126,-97.50906499999999,1,78653,OK
+61,"11215 Research Blvd, Austin, TX 78759, USA",11215 Research Boulevard in Austin (TX),30.4086948,-97.7444024,1,78759,OK
+62,,7610 Cameron Road #2110 in Austin (TX),,,0,,REQUEST_DENIED
+63,"7201 Levander Loop, Austin, TX 78702, USA",7201 Levander Loop in Austin (TX),30.2527847,-97.6904186,1,78702,OK
+64,"Chaparral Trail & Palo Blanco Ln, Austin, TX 78744, USA",Chaparral Trail And Palo Blanco Lane in Austin (TX),30.196156,-97.74902519999999,1,78744,OK
+65,"Loyola Ln & Decker Ln, Austin, TX 78724, USA",Loyola Ln And Decker Ln in Austin (TX),30.2912881,-97.62793470000001,1,78724,OK
+66,"5525 Foxfield Ln, Austin, TX 78738, USA",5525 Foxfield Ln in Travis (TX),30.3048189,-97.980091,1,78738,OK
+68,"Burnet Rd & W Anderson Ln, Austin, TX 78757, USA",Anderson Ln And Burnet Rd in Austin (TX),30.3560922,-97.7309057,1,78757,OK
+69,"13908 Tophill Cir, Pflugerville, TX 78660, USA",13908 Tophill Cir in Travis (TX),30.407624,-97.630562,1,78660,OK
+70,"105 W Elliott St, Austin, TX 78753, USA",105 W Elliott in Austin (TX),30.35317899999999,-97.699648,1,78753,OK
+71,"Manor, TX 78653, USA",Manor (TX),30.3407629,-97.55694559999999,1,78653,OK
+72,"1715 W Cesar Chavez St, Austin, TX 78703, USA",1715 W Cesar Chavez St in Austin (TX),30.2735577,-97.7667348,1,78703,OK
+73,"5601 Manchaca Rd, Austin, TX 78745, USA",5601 Manchaca Rd in Austin (TX),30.2147238,-97.79739180000001,1,78745,OK
+74,"Conestoga Trail & Ponciana Dr, Austin, TX 78744, USA",Conestoga And Ponciana in Austin (TX),30.1956704,-97.7573592,1,78744,OK
+75,"4106 N Lamar Blvd, Austin, TX 78756, USA",4106 N Lamar Blvd in Austin (TX),30.3094768,-97.7407154,1,78756,OK
+76,"3100 Rogge Ln, Austin, TX 78723, USA",3100 Rogge in Austin (TX),30.3031376,-97.6763182,1,78723,OK
+77,"5701 Johnny Morris Rd, Austin, TX 78724, USA",5701 Johnny Morris Rd in Austin (TX),30.2919247,-97.6532215,1,78724,OK
+79,"Sandshof Dr & Loyola Ln, Austin, TX 78724, USA",Loyola Ln And Sandshof Dr in Austin (TX),30.2989395,-97.6456121,1,78724,OK
+80,"Barton Creek Greenbelt, 3755 S Capital of Texas Hwy B, Austin, TX 78704, USA",3755 B S Cap Texas Hwy in Austin (TX),30.24716699999999,-97.8126892,1,78704,OK
+82,"Tammye Ln, Lodge Acres, TX 78645, USA",Tammye in Travis (TX),30.411187,-97.9620241,1,78645,OK
+83,"N Lamar Blvd & W Rundberg Ln, Austin, TX 78753, USA",Rundberg And N Lamar in Austin (TX),30.363062,-97.6970274,1,78753,OK
+84,"5710 Reicher Dr, Austin, TX 78723, USA",5710 Reicher Dr in Austin (TX),30.3035922,-97.6772577,1,78723,OK
+85,"14605 FM 973 N, Manor, TX 78653, United States",Hwy 290 And Fm 973 in Manor (TX),30.374301,-97.529476,1,78653,OK
+86,"6207 Dorchester Dr, Austin, TX 78723, USA",6207 Dorchester Dr in Austin (TX),30.3136764,-97.6854836,1,78723,OK
+87,"5801 Signal Point, Austin, TX 78724, USA",5801 Signal Point Blvd in Austin (TX),30.2892848,-97.644565,1,78724,OK
+88,"Point N Dr, South Carolina 29676, USA",Point N Dr & Arctic Ct in Austin (TX),34.8440466,-82.9053347,3,29676,OK
+90,"1156 W Cesar Chavez St, Austin, TX 78703, USA",1156 W Cesar Chavez St in Austin (TX),30.269764,-97.7591144,1,78703,OK
+91,"E 12th St & Springdale Rd, Austin, TX 78721, USA",E 12Th St And Springdale Rd in Austin (TX),30.2789614,-97.6870409,1,78721,OK
+92,"1006 Banister Ln, Austin, TX 78704, USA",1006 Banister Ln in Austin (TX),30.2298916,-97.774716,1,78704,OK
+93,"Leander, TX 78641, USA",Leander (TX),30.5788055,-97.8530686,1,78641,OK
+95,"13104 Johnson Rd, Manor, TX 78653, USA",13104 Johnson Rd in Manor (TX),30.379955,-97.4991749,1,78653,OK
+96,"Travis, TX 76570, USA",Travis (TX),31.1354588,-97.0027678,1,76570,OK
+97,"2500 Chaparral Trail, Austin, TX 78744, USA",2500 Chaparral Trail in Austin (TX),30.1962624,-97.7486941,1,78744,OK
+98,"1515 Wickersham Ln, Austin, TX 78741, USA",1515 Wickersham Ln in Austin (TX),30.2349921,-97.7182435,1,78741,OK
+99,"1881 Grove Blvd, Austin, TX 78741, USA",1881 Grove Blvd in Austin (TX),30.2286113,-97.70658279999999,1,78741,OK
+100,"9909 N Lamar Blvd, Austin, TX 78753, USA",9909 North Lamar in Austin (TX),30.3692184,-97.6929259,1,78753,OK
+101,"1608 Garden St, Austin, TX 78702, USA",1608 Garden St in Austin (TX),30.255711,-97.72904609999999,1,78702,OK
+102,"5812 Malarkey Rd, Del Valle, TX 78617, USA",5812 Malarkey Rd in Del Valle (TX),30.1694471,-97.6205083,1,78617,OK
+104,"11425 Ptarmigan Dr, Austin, TX 78758, USA",11425 Ptarmigan Dr in Austin (TX),30.3926858,-97.7036349,1,78758,OK
+106,"1002 Lott Ave, Austin, TX 78721, USA",1002 Lott in Austin (TX),30.2677781,-97.68387229999999,1,78721,OK
+107,"8105 Linden Rd, Del Valle, TX 78617, USA",8105 Linden in Travis (TX),30.1383321,-97.5833644,1,78617,OK
+108,"Travis, TX 76570, USA",Travis (TX),31.1354588,-97.0027678,1,76570,OK
+110,"Cumberland Rd & S Congress Ave, Austin, TX 78704, USA",Cumberland Rd And Congress Ave in Austin (TX),30.2355134,-97.7563802,1,78704,OK
+111,"9100 FM812, Austin, TX 78719, USA",9100 Fm 812 Road in Travis (TX),30.1620595,-97.68703099999999,1,78719,OK
+112,"5106 Village Square Dr, Austin, TX 78744, USA",5106 Village Square in Austin (TX),30.1886755,-97.7430555,1,78744,OK
+113,"Travis, TX 76570, USA",Travis (TX),31.1354588,-97.0027678,1,76570,OK
+114,"12225 US-290, Austin, TX 78737, USA",12225 U.S. 290 in Travis (TX),30.2086047,-97.97251340000001,1,78737,OK
+115,"1807 N Woodbine Rd, St Joseph, MO 64506, USA",Fairway St & Club Way Dr in Austin (TX),39.784024,-94.7963089,1,64506,OK
+116,"Travis, TX 76570, USA",Travis (TX),31.1354588,-97.0027678,1,76570,OK
+117,"5407 Viewpoint Dr, Austin, TX 78744, USA",5407 Viewpoint Drive in Austin (TX),30.2003699,-97.7315071,1,78744,OK
+118,,Outside Jurisdiction,,,0,,ZERO_RESULTS
+121,"Silent Harbor Loop & Hidden Harbor Dr, Texas 78660, USA",Silent Harbor Loop And Hidden Harbor Dr in Pflugerville (TX),30.4437782,-97.5751219,1,78660,OK
+122,"700 Middle Ln, Austin, TX 78753, USA",700 Middle Ln in Austin (TX),30.3573496,-97.6896393,1,78753,OK
+123,"Travis, TX 76570, USA",Travis (TX),31.1354588,-97.0027678,1,76570,OK
+124,"8515 S IH 35 Frontage Rd #6225, Austin, TX 78744, USA",8515 S Ih 35 Apt 6225 in Austin (TX),30.171053,-97.78197569999999,1,78744,OK
+126,"Linden Ln, Liberty, TX 77575, USA",Linden Ln in Travis (TX),30.0428148,-94.7714931,2,77575,OK
+127,"1107 Lambie St, Austin, TX 78702, USA",1107 Lambie in Austin (TX),30.2552553,-97.73524119999999,1,78702,OK
+128,"Blackson Ave & S IH 35 Frontage Rd, Austin, TX 78752, USA",N Ih35 And Blackson St in Austin (TX),30.3354115,-97.7030632,1,78752,OK
+129,"6505 Burleson Rd, Austin, TX 78744, USA",6505 Burleson Road in Austin (TX),30.2028876,-97.7147801,1,78744,OK
+130,"905 Bedford St, Austin, TX 78702, USA",905 Bedford in Austin (TX),30.2717027,-97.7076749,1,78702,OK
+131,"414 Thompson Ln, Austin, TX 78742, USA",414 Thompson Lane in Austin (TX),30.2409822,-97.6826241,1,78742,OK
+132,"Swiss Dr & Lucerne Dr, Swiss Alpine Village, TX 78617, USA",Lucerne And Swiss Dr in Travis (TX),30.12847829999999,-97.6157719,1,78617,OK
+133,,2903 Locke #B in Austin (TX),,,0,,REQUEST_DENIED
+134,"4612 Sherwyn Dr, Austin, TX 78725, USA",4612 Sherwyn Dr in Austin (TX),30.2814531,-97.660724,1,78725,OK
+135,"3200 Crownover St, Austin, TX 78725, USA",3200 Crownover Street in Austin (TX),30.2297342,-97.5887844,1,78725,OK
+136,"W 9th St & Blanco St, Austin, TX 78703, USA",Blanco Street And 9Th Street in Austin (TX),30.2749441,-97.75569929999999,1,78703,OK
+137,"4000 Airport Blvd, Austin, TX 78722, USA",4000 Airport in Austin (TX),30.291544,-97.707656,1,78722,OK
+138,"Virgo Ln, Austin, TX 78724, USA",Virgo Ln And in Austin (TX),30.2964833,-97.6459895,1,78724,OK
+139,"5902 N Hampton Dr, Austin, TX 78723, USA",5902 North Hampton Drive in Austin (TX),30.311251,-97.68561079999999,1,78723,OK
+140,"13901 FM 969, Austin, TX 78725, USA",13901 Fm 969 in Travis (TX),30.2477922,-97.58761989999999,1,78725,OK
+141,"5707 Magee Bend, Austin, TX 78749, USA",5707 Magee Bend in Austin (TX),30.2112792,-97.86954539999999,1,78749,OK
+142,"Sebastian Bend & Harris Ridge Blvd, Parkside, TX 78660, USA",Harris Redge Blvd And Sebastian Bend in Pflugerville (TX),30.4200503,-97.6446471,1,78660,OK
+143,"Travis, TX 76570, USA",Travis (TX),31.1354588,-97.0027678,1,76570,OK
+144,"1501 FM973, Austin, TX 78725, USA",1501 Fm973 in Austin (TX),30.2220302,-97.6335725,1,78725,OK
+145,"14507 Gold Fish Pond Ave, Austin, TX 78728, USA",14507 Gold Fish Pond Ave. in Austin (TX),30.4425076,-97.68232460000002,1,78728,OK
+146,"14907 Lucerne Dr, Del Valle, TX 78617, USA",14907 Lucerne Dr in Travis (TX),30.127519,-97.613872,1,78617,OK
+147,"11906 Bronco Cir, Buda, TX 78610, USA",11906 Bronco Circle in Austin (TX),30.06294,-97.704257,1,78610,OK
+148,"5708 Elk Crossing, Austin, TX 78724, USA",5708 Elk Crossing in Austin (TX),30.2820342,-97.62855809999999,1,78724,OK
+149,"5315 Ed Bluestein Blvd, Austin, TX 78723, USA",5315 Ed Bluestein Blvd in Austin (TX),30.29183299999999,-97.66242729999999,1,78723,OK
+150,"10900 Research Blvd, Austin, TX 78759, USA",Braker Ln And Hwy 183 in Austin (TX),30.401952,-97.746882,1,78759,OK
+151,"4902 Teri Rd, Austin, TX 78744, USA",4902 Teri Rd in Austin (TX),30.1954948,-97.7396969,1,78744,OK
+152,"3006 Royster Ave, Del Valle, TX 78617, USA",3006 Royster in Austin (TX),30.206408,-97.6394797,1,78617,OK
+153,"1120 Brookswood Ave, Austin, TX 78721, USA",1120 Brookswood Ave in Austin (TX),30.2652495,-97.6895545,1,78721,OK
+154,"615 Thrasher Ln, Austin, TX 78741, USA",615 Thrasher in Austin (TX),30.2368206,-97.6938377,1,78741,OK
+155,"Shoal Creek Blvd & W Anderson Ln, Austin, TX 78757, USA",West Anderson Lane And Shoal Creek Blvd in Austin (TX),30.3609725,-97.74088309999999,1,78757,OK
+156,"3100 Collins Creek Dr, Austin, TX 78741, USA",3100 Collins Creek Dr in Austin (TX),30.2225423,-97.7325785,1,78741,OK
+157,"1105 E Cesar Chavez St, Austin, TX 78702, USA",1105 E Cesar Chavez St in Austin (TX),30.2599057,-97.7334802,1,78702,OK
+158,"8028 Elroy Rd, Del Valle, TX 78617, USA",8028 Elroy Rd in Travis (TX),30.141273,-97.61830499999999,1,78617,OK
+159,"13005 Heinemann Dr, Austin, TX 78727, USA",13005 Heinemann Dr in Austin (TX),30.44091139999999,-97.74412749999999,1,78727,OK
+160,,Outside Jurisdiction,,,0,,ZERO_RESULTS
+161,"7007 Mt Carrell Dr, Austin, TX 78745, USA",7007 Mount Carrell Dr in Austin (TX),30.196428,-97.7965002,1,78745,OK
+162,"10203 Doc Holliday Trail, Austin, TX 78753, USA",10203 Doc Holiday Trl in Austin (TX),30.36760529999999,-97.685738,1,78753,OK
+163,"2300 Devonshire Dr, Austin, TX 78723, USA",2300 Devonshire Dr in Austin (TX),30.3126094,-97.68382989999999,1,78723,OK
+164,"101 Jones Rd, Manor, TX 78653, USA",101 Jones Road in Manor (TX),30.3009475,-97.49183409999999,1,78653,OK
+165,"N Lamar Blvd & W Rundberg Ln, Austin, TX 78753, USA",West Rundberg Lane And North Lamar Boulevard in Austin (TX),30.363062,-97.6970274,1,78753,OK
+166,"501 E 8th St, Austin, TX 78701, USA",501 E 8Th in Austin (TX),30.2682422,-97.737172,1,78701,OK
+167,"5801 Interregional Hwy, Austin, TX 78723, USA",5801 Interregional Hwy in Austin (TX),30.3186453,-97.70669079999999,1,78723,OK
+168,"Roseborough Dr & Running Water Dr, Austin, TX 78747, USA",Roseborough Dr And Running Water in Austin (TX),30.159958,-97.7408942,1,78747,OK
+169,"11039 Maha Loop Rd, Austin, TX 78719, USA",11039 Maha Loop in Travis (TX),30.0953522,-97.68398409999999,1,78719,OK
+170,"Little Pebble Dr, Austin, TX 78758, USA",Little Pebble Dr And Metric in Austin (TX),30.38198989999999,-97.7110987,1,78758,OK
+171,"Bluff Springs Rd & E William Cannon Dr, Austin, TX 78744, USA",Bluff Springs And East William Cannon in Austin (TX),30.1892393,-97.76785199999999,1,78744,OK
+172,"6403 Johnny Morris Rd, Austin, TX 78724, USA",6403 Johnny Morris Rd in Austin (TX),30.29694,-97.648866,1,78724,OK
+173,"6620 Deatonhill Dr, Austin, TX 78745, USA",6620 Deatonhill Dr in Austin (TX),30.2109111,-97.815184,1,78745,OK
+174,"2753 Citation Dr, Del Valle, TX 78617, USA",2753 Citation Drive in Del Valle (TX),30.211774,-97.52652499999999,1,78617,OK
+175,"3227 E 5th St, Austin, TX 78702, USA",3227 E 5Th St in Austin (TX),30.2544778,-97.7062859,1,78702,OK
+176,"7322 Dixie Dr, Austin, TX 78744, USA",7322 Dixie in Austin (TX),30.166866,-97.7446617,1,78744,OK
+177,"8645 Research Blvd, Austin, TX 78758, USA",Ohlen And 183 in Austin (TX),30.3637146,-97.7169863,1,78758,OK
+178,"9807 Middle Fiskville Rd, Austin, TX 78753, USA",9807 Middle Fiskville Rd in Austin (TX),30.360991,-97.68301,1,78753,OK
+179,"Peaceful Hill Ln, Austin, TX 78748, USA",Peaceful Hill Ln in Austin (TX),30.1793105,-97.7894007,1,78748,OK
+180,"189 Jacobson Rd, Del Valle, TX 78617, USA",189 Jacobson Rd in Del Valle (TX),30.1152057,-97.5906151,1,78617,OK
+181,"W 45th St & Guadalupe St, Austin, TX 78705, USA",45Th St And Guadalupe St in Austin (TX),30.3108416,-97.7329807,1,78705,OK
+182,"2808 Palomino Trail, Austin, TX 78744, USA",2808 Palomino Trl in Austin (TX),30.2104761,-97.69190809999999,1,78744,OK
+183,"1354 Old Lockhart Rd, Buda, TX 78610, USA",1354 Old Lockhart Hwy in Travis (TX),30.0705489,-97.71846380000001,1,78610,OK
+184,"1005 Springdale Rd, Austin, TX 78721, USA",1005 Springdale in Austin (TX),30.2653422,-97.69445259999999,1,78721,OK
+185,"4511 E Hwy 71, Del Valle, TX 78617, USA",4511 E Hwy 71 in Del Valle (TX),30.1886491,-97.6114118,1,78617,OK
+186,"1909 Coats Cir, Austin, TX 78748, USA",1909 Coats Cir in Austin (TX),30.1591853,-97.83439500000001,1,78748,OK
+187,"Wickersham Ln & Cromwell Cir, Austin, TX 78741, USA",Wickersham Ln And Cromwell Cir in Austin (TX),30.2305577,-97.72109840000002,1,78741,OK
+188,"6301 Harold Ct, Austin, TX 78721, USA",6301 Harold Ct. in Austin (TX),30.26637899999999,-97.67351599999999,1,78721,OK
+189,"1900 Onion Creek Pkwy, Austin, TX 78748, USA",1900 Onion Creek Parkway in Austin (TX),30.1386527,-97.80005969999999,1,78748,OK
+190,"7201 Levander Loop, Austin, TX 78702, USA",7201 Levander Loop in Austin (TX),30.2527847,-97.6904186,1,78702,OK
+191,"15002 Swiss Dr, Del Valle, TX 78617, USA",15002 Swiss Dr in Travis (TX),30.1316029,-97.61777540000001,1,78617,OK
+192,"Springdale Rd & Airport Blvd, Austin, TX 78702, USA",Springdale Rd And Airport Blvd in Austin (TX),30.2655736,-97.6955164,1,78702,OK
+193,"Johnny Morris Rd, Texas 78724, USA",Johnny Morris Rd & Breezy Hill Dr in Austin (TX),30.3082025,-97.64302819999999,2,78724,OK
+194,"13401 Metric Blvd, Austin, TX 78727, USA",13401 Metric Blvd in Austin (TX),30.4229095,-97.6794455,1,78727,OK
+195,"E Rundberg Ln & S IH 35 Frontage Rd, Austin, TX 78753, USA",Rundberg And Ih 35 in Austin (TX),30.3584936,-97.68856199999999,1,78753,OK
+196,"15208 Chamberlain Ct, Austin, TX 78724, USA",15208 Chamberlain Ct in Austin (TX),30.2527384,-97.5770663,1,78724,OK
+197,"Teri Rd & Copperbend Blvd, Austin, TX 78744, USA",Teri And Copperbend in Austin (TX),30.1955472,-97.7411229,1,78744,OK
+198,"11105 2nd St, Jonestown, TX 78645, USA",11105 2Nd St in Jonestown (TX),30.497282,-97.92150099999999,1,78645,OK
+199,"4708 Marblehead Dr, Austin, TX 78727, USA",4708 Marblehead in Austin (TX),30.4257771,-97.7258639,1,78727,OK
+200,"1960 N Main St, Walnut Creek, CA 94596, USA",Walnut Ave & Graham St in Austin (TX),37.9060819,-122.0634591,1,94596,OK
+201,"N Lamar Blvd & W Rundberg Ln, Austin, TX 78753, USA",N Lamar/Rundberg in Austin (TX),30.363062,-97.6970274,1,78753,OK
+202,"11901 N Mopac Expy, Austin, TX 78759, USA",11901 North Mopac in Austin (TX),30.4068959,-97.7187151,1,78759,OK
+203,"924 Shady Ln, Austin, TX 78702, USA",924 Shady Lane in Austin (TX),30.2590636,-97.6943871,1,78702,OK
+204,"Parker Ln & E Riverside Dr, Austin, TX 78741, USA",Riverside And  Parker Ln in Austin (TX),30.2432146,-97.7292123,1,78741,OK
+205,"Chestnut Ave & Rosewood Ave, Austin, TX 78702, USA",Rosewood Ave And Chestnut Ave in Austin (TX),30.2703254,-97.715138,1,78702,OK
+206,"4900 Goldbridge Dr, Austin, TX 78745, USA",4900 Goldbridge Dr in Austin (TX),30.2014462,-97.8253972,1,78745,OK
+207,"Mountain Quail Rd, Austin, TX 78758, USA",Mountain Quail Rd & Thornridge Rd in Austin (TX),30.3736283,-97.7078842,7,78758,OK
+208,"5200 Knight Cir, Austin, TX 78723, USA",5200 Knight Cir in Austin (TX),30.3060295,-97.6990118,1,78723,OK
+209,"2200 Caldwell Ln, Del Valle, TX 78617, USA",2200 Caldwell in Travis (TX),30.2153949,-97.5386328,1,78617,OK
+210,"1601 E Slaughter Ln, Austin, TX 78747, USA",1601 E Slaughter Ln in Austin (TX),30.1487835,-97.7694089,1,78747,OK
+211,"6808 Felipe Dr, Austin, TX 78747, USA",6808 Felipe Dr in Austin (TX),30.1546901,-97.7385087,1,78747,OK
+212,"6900 Burleson Manor Rd, Manor, TX 78653, USA",6900 Block Of Burleson Manor Rd in Travis (TX),30.2532514,-97.53232949999999,1,78653,OK
+213,"5301 E Stassney Ln, Austin, TX 78744, USA",5301 Stassney Ln in Austin (TX),30.192417,-97.7383177,1,78744,OK
+214,"Piland Triangle, Thoroughbred Estates, TX 78617, USA",812 Hwy And Piland Triangle in Del Valle (TX),30.1291992,-97.64111899999999,1,78617,OK
+215,"Manchaca Rd & Redwater Dr, Texas 78748, USA",Redwater Dr And Manchaca Rd in Austin (TX),30.1679972,-97.8262688,1,78748,OK
+216,"E Stassney Ln & S Congress Ave, Austin, TX 78745, USA",Stassney And Congress Ave in Austin (TX),30.2048849,-97.7748428,1,78745,OK
+217,"1920 E Riverside Dr, Austin, TX 78741, USA",1920 E Riverside Dr in Austin (TX),30.2426661,-97.72789879999999,1,78741,OK
+218,"7101 Ed Bluestein Blvd, Austin, TX 78723, USA",7101 Ed Bluestein Blvd in Austin (TX),30.3125953,-97.6616095,1,78723,OK
+219,"7201 Levander Loop, Austin, TX 78702, USA",7201 Levander Loop in Austin (TX),30.2527847,-97.6904186,1,78702,OK
+220,"1016 W Stassney Ln, Austin, TX 78745, USA",1016 W Stassney Ln in Austin (TX),30.211456,-97.786492,1,78745,OK
+221,"5725 Trelawney Ln, Austin, TX 78739, USA",5725 Trelawney in Austin (TX),30.1881963,-97.88387420000001,1,78739,OK
+222,"Schmidt Ln & Anderson Rd, Texas 78653, USA",Schmidt Ln And Anderson Rd in Manor (TX),30.3996408,-97.5244934,1,78653,OK
+223,"W 38th St & Guadalupe St, Austin, TX 78705, USA",38Th St And Guadalupe St in Austin (TX),30.3027389,-97.73817849999999,1,78705,OK
+224,"9200 N Plaza, Austin, TX 78753, USA",9200 North Plaza in Austin (TX),30.3544049,-97.6860561,1,78753,OK
+225,"2007 Conestoga Trail, Austin, TX 78744, USA",2007 Conestoga in Austin (TX),30.1956825,-97.7577349,1,78744,OK
+226,"2204 Fair Oaks Dr, Austin, TX 78745, USA",2204 Fair Oaks Dr in Austin (TX),30.22124,-97.7981566,1,78745,OK
+227,"Manor, TX 78653, USA",Manor (TX),30.3407629,-97.55694559999999,1,78653,OK
+229,,1906 Valley Hill Cir #A in Austin (TX),,,0,,REQUEST_DENIED
+230,"20706 Postoak Pkwy, Manor, TX 78653, USA",20706 Postoak Parkway in Manor (TX),30.277914,-97.48975200000001,1,78653,OK
+231,"12034 Research Blvd, Austin, TX 78759, USA",12034 Research Blvd in Austin (TX),30.42535759999999,-97.7529038,1,78759,OK
+232,"7619 I-35 North, Austin, TX 78752, United States",Hwy 183 And Manor in Austin (TX),30.3369319,-97.6996422,1,78752,OK
+233,"1515 Wickersham Ln, Austin, TX 78741, USA",1515 Wickersham Ln in Austin (TX),30.2349921,-97.7182435,1,78741,OK
+234,"11441 N Interstate Hwy 35, Austin, TX 78753, USA",11441 N Ih 35 in Austin (TX),30.3780994,-97.6724258,1,78753,OK
+235,"2900 N Farm to Market Rd 973, Austin, TX 78725, USA",2900 N Farm To Market Road 973 in Austin (TX),30.24192129999999,-97.6219745,1,78725,OK
+236,"7712 Bellehaven Ct, Austin, TX 78744, USA",7712 Bellehaven in Austin (TX),30.17366609999999,-97.7669861,1,78744,OK
+237,"12166 Metric Blvd, Austin, TX 78758, USA",12166 Metric Blvd in Austin (TX),30.4069492,-97.6994813,1,78758,OK
+238,"Bluff Springs Rd & Nelms Dr, Austin, TX 78744, USA",Bluff Springs Rd And Nelms Dr in Austin (TX),30.1927864,-97.7651502,1,78744,OK
+239,"8714 FM812, Austin, TX 78719, USA",8714 Fm 812 in Travis (TX),30.1646694,-97.6896056,1,78719,OK
+242,"14400 Harris Ridge Blvd, Pflugerville, TX 78660, USA",14400 Harris Ridge Blvd in Pflugerville (TX),30.42046359999999,-97.6447377,1,78660,OK
+243,"14811 Chicadee Cir, Pflugerville, TX 78660, USA",14811 Chicadee in Pflugerville (TX),30.419158,-97.62317739999999,1,78660,OK
+244,"1708 Shadowview Dr, Austin, TX 78758, USA",1708 Shadowview Dr in Austin (TX),30.4108399,-97.6901906,1,78758,OK
+245,"Manor, TX 78653, USA",Manor (TX),30.3407629,-97.55694559999999,1,78653,OK
+246,"Teri Rd & Freidrich Ln, Austin, TX 78744, USA",Teri Rd And Freidrich Ln in Austin (TX),30.2032989,-97.75394279999999,1,78744,OK
+247,"6315 Ken Caryl Dr, Austin, TX 78747, USA",6315 Ken Caryl Dr in Austin (TX),30.1578897,-97.7431556,1,78747,OK
+248,"4408 Glomar Ave, Austin, TX 78721, USA",4408 Glomar in Austin (TX),30.2818765,-97.68709500000001,1,78721,OK
+249,"Boulder Ln & N FM 620, Austin, TX 78726, USA",Fm 620 And Boulder Ln in Austin (TX),30.4288358,-97.8426734,1,78726,OK
+250,"45 TX-150 Loop W, Bastrop, TX 78602, USA",Lba Dr in Travis (TX),30.1064352,-97.32832549999999,1,78602,OK
+251,"Manor, TX 78653, USA",Manor (TX),30.3407629,-97.55694559999999,1,78653,OK
+252,"1295 S Capital of Texas Hwy, Austin, TX 78746, USA",4010 Hwy 1327  Fire Station in Austin (TX),30.2793974,-97.81992679999999,2,78746,OK
+253,"9323 Manchaca Rd, Austin, TX 78748, USA",9323 Manchaca Rd in Austin (TX),30.1788196,-97.82014579999999,1,78748,OK
+254,"1803 Broadmoor Dr, Austin, TX 78723, USA",1803 Broadmoor Dr in Austin (TX),30.3053087,-97.69604299999999,1,78723,OK
+256,"Anken Dr & S Pleasant Valley Rd, Austin, TX 78741, USA",S Pleasant Valley Rd And Anken Dr in Austin (TX),30.2296634,-97.72629909999999,1,78741,OK
+257,"905 W Village Ln, Austin, TX 78758, USA",905 W Village in Austin (TX),30.369139,-97.698084,1,78758,OK
+258,,Outside Jurisdiction,,,0,,ZERO_RESULTS
+259,"7100 Crystalbrook Dr, Austin, TX 78724, USA",7100 Crystal Brook in Austin (TX),30.30784,-97.6529248,1,78724,OK
+260,"1620 E Riverside Dr, Austin, TX 78741, USA",1620 E Riverside Dr in Austin (TX),30.2452206,-97.7301827,1,78741,OK
+261,"Pearce Ln & Los Cielos Blvd, Austin, TX 78617, USA",Pearce Ln And Los Cielos Blvd in Del Valle (TX),30.1694167,-97.6231335,1,78617,OK
+262,,Outside Jurisdiction,,,0,,ZERO_RESULTS
+263,"Cliffbrook Dr, Austin, TX 78747, USA",1625 And Cliff Brook in Austin (TX),30.1047163,-97.7188997,1,78747,OK
+264,"7201 Levander Loop, Austin, TX 78702, USA",7201 Levander Loop in Austin (TX),30.2527847,-97.6904186,1,78702,OK
+265,"5302 TX-71 #10B, Del Valle, TX 78617, USA",5302 Hwy 71 10B in Travis (TX),30.1843197,-97.54678129999999,1,78617,OK
+266,,Outside Jurisdiction,,,0,,ZERO_RESULTS
+267,"Ulysses S Grant St, Texas 78653, USA",18617 Ulysses S Grant in Travis (TX),30.3557933,-97.5238301,1,78653,OK
+269,"Brownie Dr, Austin, TX 78753, USA",Brownie in Austin (TX),30.368578,-97.6843325,1,78753,OK
+270,"8028 Gessner Dr, Austin, TX 78753, USA",8028 Gessner in Austin (TX),30.34449619999999,-97.7020747,1,78753,OK
+271,"Mansfield Dam Park, 4370 Mansfield Dam Park Rd., Austin, TX 78732, USA",4370 Mansfield Dam in Travis (TX),30.395708,-97.9076671,1,78732,OK
+272,"1822 W Braker Ln, Austin, TX 78758, USA",1822 W Braker Ln in Austin (TX),30.3920447,-97.70577689999999,1,78758,OK
+273,"Santa Rita St & Matamoros St, Austin, TX 78702, USA",Matamoros St And Santa Rita St in Austin (TX),30.257413,-97.718679,1,78702,OK
+274,"9801 Decker Lake Rd, Austin, TX 78724, USA",9801 Decker Lake Rd in Austin (TX),30.2823416,-97.6189217,1,78724,OK
+275,"10801 Old Manchaca Rd, Austin, TX 78748, USA",10801 Old Manchaca in Austin (TX),30.1625936,-97.8287852,1,78748,OK
+276,"9900 Roxanna Dr, Austin, TX 78748, USA",9900 Roxanna in Austin (TX),30.17541959999999,-97.8279357,1,78748,OK
+277,"1154 Nickols Ave, Austin, TX 78721, USA",1154 Nickols Ave. in Austin (TX),30.2766689,-97.68501719999999,1,78721,OK
+278,"14631 Branding Iron Pass, Austin, TX 78734, USA",14631 Branding Iron Pass in Travis (TX),30.3732947,-97.9317288,1,78734,OK
+279,"5000 Coffee Cup Cove, Austin, TX 78744, USA",5000 Coffee Cup Cove in Austin (TX),30.1966815,-97.7416066,1,78744,OK
+280,"6000 US-290, Austin, TX 78735, USA",6000 E Us 290 Hwy in Austin (TX),30.2363559,-97.85159560000001,1,78735,OK
+281,"6101 Airport Blvd, Austin, TX 78752, USA",6101 Airport Blvd in Austin (TX),30.32764299999999,-97.7139909,1,78752,OK
+282,"710 E Ben White Blvd, Austin, TX 78704, USA",710 E Ben White in Austin (TX),30.2203767,-97.754233,1,78704,OK
+283,"Hokanson Rd & Doyle Overton Rd, Rio Vista Ranch, TX 78617, USA",Doyle Overton Rd And Hokanson Rd in Travis (TX),30.0910289,-97.62721700000002,1,78617,OK
+284,,Outside Jurisdiction,,,0,,ZERO_RESULTS
+285,"Galewood Dr & Colony Creek Dr, Austin, TX 78758, USA",Colony Creek And Galewood in Austin (TX),30.3687916,-97.7141654,1,78758,OK
+286,"14607 Highsmith St, Austin, TX 78725, USA",14607 Highsmith St in Travis (TX),30.2371351,-97.58556630000001,1,78725,OK
+287,"11603 Hidden Quail Dr, Austin, TX 78758, USA",11603 Hidden Quail in Austin (TX),30.3918862,-97.6999343,1,78758,OK
+288,"7200 Kellam Rd, Del Valle, TX 78617, USA",7200 Kellam in Del Valle (TX),30.1564791,-97.6185326,1,78617,OK
+290,"E 4th St & Pedernales St, Austin, TX 78702, USA",Pedernales And E 4Th St in Austin (TX),30.25704,-97.71550409999999,1,78702,OK
+291,"1806 Somerset Dr, Round Rock, TX 78681, USA",1806 Somerset Dr in Round Rock (TX),30.5220764,-97.70287139999999,1,78681,OK
+292,"12201 Von Quintus Rd, Austin, TX 78719, USA",12201 Von Quintus Road in Austin (TX),30.1048407,-97.6733599,1,78719,OK
+294,"E Cesar Chavez St & S IH 35 Frontage Rd, Austin, TX 78701, USA",Cesar Chavez And N Ih 35 in Austin (TX),30.2612203,-97.7367715,1,78701,OK
+295,"1111 Thurgood Cir, Austin, TX 78721, USA",1111 Thurgood in Austin (TX),30.2617436,-97.6760281,1,78721,OK
+296,"14500 Deaf Smith Blvd, Austin, TX 78725, USA",14500 Deaf Smith in Travis (TX),30.233564,-97.5899701,1,78725,OK
+298,"7201 Levander Loop, Austin, TX 78702, USA",7201 Levander Loop in Austin (TX),30.2527847,-97.6904186,1,78702,OK
+299,"7706 Elroy Rd, Del Valle, TX 78617, USA",7706 Elroy Rd in Travis (TX),30.1454238,-97.6281449,1,78617,OK
+301,"S Pleasant Valley Rd & E Riverside Dr, Austin, TX 78741, USA",Riverside And Pleasant Valley in Austin (TX),30.234143,-97.7228689,2,78741,OK
+302,"4501 E Ben White Blvd, Austin, TX 78741, USA",4501 East Ben White Boulevard in Austin (TX),30.214455,-97.73432199999999,1,78741,OK
+303,"Villa Park Dr & Black Oak St, Jollyville, TX 78729, USA",Black Oak And Villa Park in Austin (TX),30.4577765,-97.7703137,1,78729,OK
+304,"5006 Heflin Ln, Austin, TX 78721, USA",5006 Heflin Lane in Austin (TX),30.284191,-97.6789537,1,78721,OK
+306,"Bastrop, TX 78602, USA",Bastrop (TX),30.1104947,-97.3152701,1,78602,OK
+307,"183 Montopolis Dr, Austin, TX 78741, USA",Montopolis/183 in Austin (TX),30.2429464,-97.6919018,1,78741,OK
+308,"2400 Wickersham Ln, Austin, TX 78741, USA",2400 Wickersham in Austin (TX),30.227438,-97.723113,1,78741,OK
+309,"Crowley Trail & Sinton Ln, Jollyville, TX 78729, USA",Sinton And Crowley in Austin (TX),30.4427278,-97.7471166,1,78729,OK
+310,"5400 Fence Row, Austin, TX 78744, USA",5400 Fence Row in Austin (TX),30.1976558,-97.7334594,1,78744,OK
+311,"Crown Ridge Path & Crown Ridge Rd, Austin, TX 78753, USA",Crown Ridge Rd And Crown Ridge Path in Austin (TX),30.3577082,-97.6813008,1,78753,OK
+312,"E Riverside Dr & S Hwy 183, Austin, TX 78744, USA",Hwy 183 And E Riverside Dr in Austin (TX),30.2176569,-97.68343089999999,1,78744,OK
+314,"Lareina Dr & Garnett St, Austin, TX 78745, USA",Lareina St And Garnett St in Austin (TX),30.21733,-97.7710634,1,78745,OK
+315,"9601 Middle Fiskville Rd, Austin, TX 78753, USA",9601 Middle Fiskville Road in Austin (TX),30.3591384,-97.684283,1,78753,OK
+316,"E 32nd St & Hampton Rd, Austin, TX 78705, USA",32Nd St And Hampton Rd in Austin (TX),30.2915582,-97.7281682,1,78705,OK
+317,"E 2nd St & Comal St, Austin, TX 78702, USA",East 2Nd And Comal in Austin (TX),30.2594221,-97.72824899999999,1,78702,OK
+318,"2212 Santa Rita St, Austin, TX 78702, USA",2212 Santa Rita in Austin (TX),30.2576216,-97.71887410000001,1,78702,OK
+319,"194 Mc Dowell Rd, Del Valle, TX 78617, USA",194 Mcdowell Rd in Bastrop (TX),30.096152,-97.582781,1,78617,OK
+320,"Parliament Dr & Garden View Dr, Austin, TX 78724, USA",Garden View And Parliament in Austin (TX),30.2873431,-97.6595861,1,78724,OK
+321,"100 Radam Ln, Austin, TX 78745, USA",100 Radam in Austin (TX),30.2214483,-97.7648347,1,78745,OK
+323,"5106 Lambs Ln, Austin, TX 78744, USA",5106 Lambs Ln in Austin (TX),30.1785329,-97.7499249,1,78744,OK
+324,"3204 Wickham Ln, Austin, TX 78725, USA",3204 Wickham Ln in Austin (TX),30.2321982,-97.5942048,1,78725,OK
+325,"6109 Conti Ct, Austin, TX 78744, USA",6109 Conti Ct in Austin (TX),30.1668418,-97.7448532,1,78744,OK
+326,"Grove Blvd & Fairway St, Austin, TX 78741, USA",Fairway And Grove Blvd in Austin (TX),30.2301137,-97.7063373,2,78741,OK
+327,"1704 Ridgemont Dr, Austin, TX 78723, USA",1704 Ridgemont in Austin (TX),30.3098888,-97.69430419999999,1,78723,OK
+328,"9600 I-35, Austin, TX 78748, USA",9600 S I H 35 in Austin (TX),30.1607196,-97.7924013,1,78748,OK
+330,"6114 S 1st St, Austin, TX 78745, USA",6114 S 1St in Austin (TX),30.2024607,-97.7850977,1,78745,OK
+331,"6934 E Ben White Blvd, Austin, TX 78741, USA",Ben White & Ih 35 in Austin (TX),30.2167075,-97.7030252,1,78741,OK
+332,"8205 Brodie Ln, Austin, TX 78745, USA",8205 Brodie Ln in Austin (TX),30.2013596,-97.8377467,1,78745,OK
+333,"5700 Jfk Dr, Austin, TX 78724, USA",5700 Jfk in Travis (TX),30.2548292,-97.57422969999999,1,78724,OK
+334,"5701 Ainez Dr, Austin, TX 78744, USA",5701 Ainez in Austin (TX),30.18855,-97.7389327,1,78744,OK
+335,"Travis, TX 76570, USA",Travis (TX),31.1354588,-97.0027678,1,76570,OK
+336,"Travis, TX 76570, USA",Travis (TX),31.1354588,-97.0027678,1,76570,OK
+337,"1303 Corona Dr, Austin, TX 78723, USA",1303 Corona Drive in Austin (TX),30.3115557,-97.70325319999999,1,78723,OK
+338,"2815 TX-71, Del Valle, TX 78617, USA",2815 E Sh 71 in Del Valle (TX),30.2096848,-97.6510483,2,78617,OK
+340,"2201 Montopolis Dr, Austin, TX 78741, USA",2201 Montopolis in Austin (TX),30.2221438,-97.7042472,1,78741,OK
+341,"N Pleasant Valley Rd & E Cesar Chavez St, Austin, TX 78702, USA",Cesar Chavez And Pleasant Valley in Austin (TX),30.2529803,-97.71281189999999,1,78702,OK
+342,"5033-A US Hwy 290 W, Suite 100, Austin, TX 78735, United States",Brodie Lane And West Us Highway 290 in Austin (TX),30.2338737,-97.8237102,1,78735,OK
+343,"13706 Lazyridge Dr, Pflugerville, TX 78660, USA",13706 Lazyridge Dr in Travis (TX),30.405937,-97.632933,1,78660,OK
+344,"14504 Cameron Rd, Manor, TX 78653, USA",14504 Cameron Rd in Travis (TX),30.39739299999999,-97.59142399999999,1,78653,OK
+345,"Round Mountain, Lakeway, TX 78734, USA",16672 Round Mountain in Travis (TX),30.37038029999999,-97.9579242,1,78734,OK
+346,"7201 Ellington Cir, Austin, TX 78724, USA",7201 Ellington Circle in Austin (TX),30.3061994,-97.6440353,1,78724,OK
+347,"9715 Ochiltree Dr, Austin, TX 78753, USA",9715 Ochiltree Dr in Austin (TX),30.3596294,-97.6798017,1,78753,OK
+348,"7706 Eastcrest Dr, Austin, TX 78752, USA",7706 Eastcrest in Austin (TX),30.3417025,-97.7060102,1,78752,OK
+349,"Applegate Dr E & Mcmillian Dr, Austin, TX 78753, USA",Mcmillian Dr And Applegate Dr E in Austin (TX),30.3702395,-97.6841762,1,78753,OK
+350,"8212 Linden Rd, Del Valle, TX 78617, USA",8212 Linden Rd in Austin (TX),30.136991,-97.58701699999999,1,78617,OK
+351,"15208 Chamberlain Ct, Austin, TX 78724, USA",15208 Chamberlain Ct in Austin (TX),30.2527384,-97.5770663,1,78724,OK
+352,"Bolm Rd & Shady Ln, Austin, TX 78721, USA",Bolm And Shady Lane in Austin (TX),30.259782,-97.6933244,1,78721,OK
+353,,8220 Hwy 71 West #315 in Austin (TX),,,0,,REQUEST_DENIED
+354,"Walsh Tarlton Ln, Texas 78746, USA",Walsh Tarlton in Travis (TX),30.266064,-97.80649269999999,1,78746,OK
+355,"2700 Citation Dr, Del Valle, TX 78617, USA",2700 Citations Dr in Austin (TX),30.211016,-97.51853799999999,1,78617,OK
+356,"Brantley Bend, Austin, TX 78748, USA",Brantley Bnd in Austin (TX),30.174539,-97.8390178,1,78748,OK
+357,"12800 Pearce Ln, Del Valle, TX 78617, USA",12800 Pearce Ln in Travis (TX),30.1695786,-97.6217157,1,78617,OK
+358,"Bull Creek District Park, 6701 Lakewood Dr, Austin, TX 78731, USA",Lakewood Dr /Bull Creek in Austin (TX),30.3686707,-97.7844607,1,78731,OK
+359,"Rutland, VT 05701, USA",Rutland & Merns Meadows in Austin (TX),43.6106237,-72.9726065,1,05701,OK
+360,"508 West Ave, Austin, TX 78701, USA",508 West Avenue in Austin (TX),30.2700601,-97.75109929999999,1,78701,OK
+361,"6620 Blue Bluff Rd, Austin, TX 78724, USA",6620 Blue Bluff Rd in Austin (TX),30.2814032,-97.6096194,1,78724,OK
+362,"8900 Manchaca Rd, Austin, TX 78748, USA",8900 Manchaca Rd in Austin (TX),30.1839614,-97.81881399999999,1,78748,OK
+363,"1405 E 7th St, Austin, TX 78702, USA",East 7Th Street And Lavendar in Austin (TX),30.2642799,-97.72772839999999,1,78702,OK
+364,"E William Cannon Dr & S Pleasant Valley Rd, Austin, TX 78744, USA",Wm Cannon And Pleasant Valley in Austin (TX),30.1799465,-97.7473728,1,78744,OK
+365,"6100 Caddie St, Austin, TX 78741, USA",6100 Caddie in Austin (TX),30.2286559,-97.7044938,1,78741,OK
+366,"E Riverside Dr & S Hwy 183, Austin, TX 78744, USA",Hwy 183 And E Riverside Dr in Austin (TX),30.2176569,-97.68343089999999,1,78744,OK
+367,"412 Blue Valley Dr, Austin, TX 78748, USA",412 Blue Valley Dr in Austin (TX),30.1817598,-97.78959900000001,1,78748,OK
+368,"W Slaughter Ln & Swansons Ranch Rd, Austin, TX 78748, USA",Slaughter And Swansons Ranch in Austin (TX),30.1737623,-97.8161456,1,78748,OK
+369,"Shively Ln & S Hwy 183, Texas 78719, USA",S Hwy 183 And Shively Lane in Austin (TX),30.1156999,-97.69512089999999,1,78719,OK
+370,"1801 E 4th St, Austin, TX 78702, USA",1801 E 4Th St in Austin (TX),30.2600104,-97.7245062,1,78702,OK
+371,"5505 E Hwy 71, Del Valle, TX 78617, USA",5505 E Hwy 71 in Travis (TX),30.179195,-97.5341119,1,78617,OK
+372,,810 E Slaughter #9108 in Austin (TX),,,0,,REQUEST_DENIED
+373,"Baythorne & Ridgewell Rd, Austin, TX 78747, USA",Baythorne Dr And Ridgewell Rd in Austin (TX),30.1501099,-97.7450509,1,78747,OK
+374,"5411 Manor Rd, Austin, TX 78723, USA",5411 Manor Rd in Austin (TX),30.3018677,-97.6837451,1,78723,OK
+375,"13904 Long Hollow Loop, Leander, TX 78641, USA",13904 Long Hollow in Travis (TX),30.584301,-97.982484,1,78641,OK
+376,"3737 Keats Dr, Austin, TX 78704, USA",3737 Keats Dr in Austin (TX),30.2364435,-97.7862018,1,78704,OK
+377,,Outside Jurisdiction,,,0,,ZERO_RESULTS
+378,"TX-71 & Fletcher Ln, Austin, TX 78735, USA",Fletcher Ln And Tx-71 in Austin (TX),30.24709949999999,-97.8885729,1,78735,OK
+379,"10606 Hard Rock Rd, Austin, TX 78750, USA",10606 Hard Rock Rd in Austin (TX),30.4520463,-97.80745859999999,1,78750,OK
+380,"Briarcreek, TX 78653, USA",Briar Creek in Travis (TX),30.3196734,-97.5328476,1,78653,OK
+381,"Comal St & Nash Hernandez Senior Rd, Austin, TX 78702, USA",Nash Hernandez Senior Rd And Comal St in Austin (TX),30.25105,-97.7320924,1,78702,OK
+382,"8714 FM812, Austin, TX 78719, USA",812 &Elroy in Travis (TX),30.1647633,-97.6896883,1,78719,OK
+383,"9024 Northgate Blvd, Austin, TX 78758, USA",9024 Northgate Boulevard in Austin (TX),30.3700305,-97.71737449999999,1,78758,OK
+384,"12806 Lamplight Village Ave, Austin, TX 78727, USA",12806 Lamplight Village in Austin (TX),30.4212258,-97.6938801,1,78727,OK
+385,"Manor, TX 78653, USA",Manor (TX),30.3407629,-97.55694559999999,1,78653,OK
+386,"11501 Georgia Coleman Bend, Austin, TX 78748, USA",11501 Georgia Coleman Bnd in Austin (TX),30.1548213,-97.84358429999999,1,78748,OK
+388,"1305 Southport Dr, Austin, TX 78704, USA",1305 Southport Drive in Austin (TX),30.2326576,-97.7758545,1,78704,OK
+389,"3504 Taylor Falls Dr, Pflugerville, TX 78660, USA",3504 Taylor Falls Drive in Travis (TX),30.4563816,-97.5717213,1,78660,OK
+390,,Outside Jurisdiction,,,0,,ZERO_RESULTS
+391,"1516 Nash Hernandez Senior Rd, Austin, TX 78702, USA",1516 Nash Hernandez in Austin (TX),30.2513338,-97.7325134,1,78702,OK
+392,"2800 Metcalfe Rd, Austin, TX 78741, USA",2800 Metcalfe Road in Austin (TX),30.2242083,-97.7379358,1,78741,OK
+393,"16901 Hayride Cir, Del Valle, TX 78617, USA",16901 Hayride Circle in Travis (TX),30.14113249999999,-97.5758163,1,78617,OK
+394,"505 W Anderson Ln, Austin, TX 78752, USA",505 W Anderson Ln in Austin (TX),30.3449055,-97.7092641,1,78752,OK
+395,"13616 Briarcreek Loop, Manor, TX 78653, USA",13616 Briar Creek Loop in Travis (TX),30.3147499,-97.5300762,1,78653,OK
+396,"1907 Mearns Meadow/Little Pebble, Austin, TX 78758, USA",Little Pebble And Mearns in Austin (TX),30.38291,-97.7111,1,78758,OK
+397,"727 Airport Blvd, Austin, TX 78702, USA",727 Airport in Austin (TX),30.2527057,-97.691484,1,78702,OK
+398,"1020 Grove Blvd, Austin, TX 78741, USA",1020 Grove Blvd in Austin (TX),30.2369453,-97.7042824,1,78741,OK
+399,"3427 Parker Ln, Austin, TX 78741, USA",3427 Parker Lane in Austin (TX),30.2199638,-97.7419037,1,78741,OK
+400,"E 12th St & Webberville Rd, Austin, TX 78721, USA",Webberville Road And 12Th Street in Austin (TX),30.2780868,-97.6850527,1,78721,OK
+401,"1601 Haskell St, Austin, TX 78702, USA",1601 Haskell in Austin (TX),30.2530865,-97.7298735,1,78702,OK
+402,"1408 Frontier Valley Dr, Austin, TX 78741, USA",1408 Frontier Valley in Austin (TX),30.2262484,-97.69382499999999,1,78741,OK
+404,"6910 E William Cannon Dr, Austin, TX 78744, USA",6910 E William Cannon Dr in Austin (TX),30.1654102,-97.7290982,1,78744,OK
+405,"9010 Galewood Dr, Austin, TX 78758, USA",9010 Galewood Drive in Austin (TX),30.3678934,-97.715003,1,78758,OK
+406,"Dove Dr, Austin, TX 78744, USA",Dove Dr in Austin (TX),30.1915137,-97.75262190000001,1,78744,OK
+407,"7213 Inspiration Dr, Austin, TX 78724, USA",7213 Inspiration Dr. in Austin (TX),30.3102383,-97.6532639,1,78724,OK
+409,"Magna Carta Loop & Breeds Hill, Springdale Heights, TX 78754, USA",Magna Carta Loop And Breeds Hill in Austin (TX),30.3378317,-97.6478368,1,78754,OK
+410,"14407 Joy Lee Ln, Manor, TX 78653, USA",14407 Joy Lee Ln Manor Tx 78653 in Manor (TX),30.3675161,-97.5181037,1,78653,OK
+411,"9900 McNeil Dr, Austin, TX 78750, USA",9900 Mc Neil Dr in Austin (TX),30.395022,-97.8332291,1,78750,OK
+413,"7619 I-35 North, Austin, TX 78752, United States",Hwy 183 And N Lamar in Austin (TX),30.3369319,-97.6996422,1,78752,OK
+414,"12312 Los Indios Trail, Austin, TX 78729, USA",12312 Los Indios Trl in Austin (TX),30.4398294,-97.7671589,1,78729,OK
+415,"1430 Frontier Valley Dr #112, Austin, TX 78741, USA",1430 Frontier Valley Drive Unit 112 in Austin (TX),30.227456,-97.692371,1,78741,OK
+417,"8718 FM812, Austin, TX 78719, USA",8718 Fm 812 in Austin (TX),30.1635301,-97.6902181,1,78719,OK
+418,"Springdale Rd & Ledesma Rd, Austin, TX 78721, USA",Ledesma Rd And Springdale Rd in Austin (TX),30.2740168,-97.6901542,1,78721,OK
+419,"5301 E Stassney Ln, Austin, TX 78744, USA",5301 Stassney Ln in Austin (TX),30.192417,-97.7383177,1,78744,OK
+420,"Lago Vista, TX 78645, USA",Lago Vista (TX),30.4601975,-97.98834769999999,1,78645,OK
+421,,Outside Jurisdiction,,,0,,ZERO_RESULTS
+422,"Leda Ln & Elara Dr, Hornsby Glen, TX 78725, USA",Elara Dr And Leda Ln in Austin (TX),30.2146126,-97.6379398,1,78725,OK
+423,"S Congress Ave & E Live Oak St, Austin, TX 78704, USA",Live Oak And S Congress in Austin (TX),30.2420065,-97.7524947,1,78704,OK
+424,"500 E Ben White Blvd, Austin, TX 78704, USA",500 E Ben White Blvd in Austin (TX),30.2211803,-97.7563526,1,78704,OK
+425,"E Oltorf St & Wickersham Ln, Austin, TX 78741, USA",Wickersham And Oltolf in Austin (TX),30.22561129999999,-97.72435639999999,1,78741,OK
+426,"Clawson Rd & Valleyridge Dr, Austin, TX 78704, USA",Clawson And Valley Ridge Dr in Austin (TX),30.2373257,-97.7780512,2,78704,OK
+427,"Springdale Rd & Oak Springs Dr, Austin, TX 78721, USA",Oak Springs And Springdale in Austin (TX),30.2735453,-97.690416,1,78721,OK
+428,"E Cesar Chavez St & Comal St, Austin, TX 78702, USA",Cesar Chavez And Comal in Austin (TX),30.258518,-97.7286659,1,78702,OK
+429,"1203 Springdale Rd, Austin, TX 78721, USA",1203 Springdale Road in Austin (TX),30.27941,-97.6854029,1,78721,OK
+431,"2751 E Hwy 71, Del Valle, TX 78617, USA",2751 E Hwy 71 in Austin (TX),30.2109493,-97.6523333,1,78617,OK
+432,"FM 969 & Delta Post Dr, Austins' Colony, TX 78724, USA",Delta Post Drive And Fm 969 in Austin (TX),30.2474718,-97.58302119999999,1,78724,OK
+433,"11906 Bronco Cir, Buda, TX 78610, USA",11906 Bronco Circle in Austin (TX),30.06294,-97.704257,1,78610,OK
+434,"3401 Webberville Rd, Austin, TX 78702, USA",3401 Webberville Rd in Austin (TX),30.2684256,-97.707213,1,78702,OK
+435,"Cameron Rd & E Yager Ln, Texas 78653, USA",Cameron Rd And East Yager Ln in Manor (TX),30.3629108,-97.62939999999999,1,78653,OK
+436,"Meadow Run & Stoneoak Ln, Austin, TX 78745, USA",Meadow Run And Stoneoak Ln in Austin (TX),30.1987349,-97.79791209999999,1,78745,OK
+437,"18208 Flat Head Dr, Manor, TX 78653, USA",18208 Flat Head Dr in Travis (TX),30.3127634,-97.5334611,1,78653,OK
+438,"S Lexington St & Old Hwy 20, Manor, TX 78653, USA",Old Hwy 20 And Lexington St in Manor (TX),30.34107029999999,-97.55768499999999,1,78653,OK
+439,"US-183 & Techni Center Dr, Austin, TX 78721, USA",Hwy 183 And Techni Center in Austin (TX),30.2760329,-97.6680513,1,78721,OK
+440,"Lohman Ford Rd & Post Oak Dr, Travis Hollow, TX 78645, USA",Lohman Ford Rd And Post Oak Dr in Lago Vista (TX),30.4664886,-97.9772733,1,78645,OK
+441,"6806 Montana St, Austin, TX 78741, USA",6806 Montana St in Austin (TX),30.2305333,-97.69332879999999,1,78741,OK
+442,"5500 Peppertree Pkwy, Austin, TX 78744, USA",5500 Peppertree Pkwy in Austin (TX),30.1962998,-97.7533629,1,78744,OK
+443,"E 12th St & E M. Franklin Ave, Austin, TX 78721, USA",Em Franklin And 12Th Street in Austin (TX),30.2778375,-97.6942357,1,78721,OK
+444,"Cherrydale Dr & Cherry Meadow Dr, Austin, TX 78745, USA",Cherry Meadows And Cherrydale Dr in Austin (TX),30.2000779,-97.803654,1,78745,OK
+445,"20602 Ed Acklin Rd, Manor, TX 78653, USA",20602 Ed Acklin in Travis (TX),30.277217,-97.491508,1,78653,OK
+446,"7620 Marl Ct, Austin, TX 78747, USA",7620 Marl Ct in Austin (TX),30.1619739,-97.73889059999999,1,78747,OK
+447,"5325 Gooding Dr, Austin, TX 78744, USA",5325 Gooding in Austin (TX),30.1761429,-97.6933629,1,78744,OK
+448,"Nelms Dr & Sneed Cove, Austin, TX 78744, USA",Sneed Cove And Nelms Dr in Austin (TX),30.1928031,-97.7642187,1,78744,OK
+449,"11300 Doyle Overton Rd, Del Valle, TX 78617, USA",11300 Doyle Overton Rd in Austin (TX),30.080497,-97.63947999999999,1,78617,OK
+451,"Manor, TX 78653, USA",300 East Lane Street in Manor (TX),30.3407629,-97.55694559999999,1,78653,OK
+452,"8909 Briardale Dr, Austin, TX 78758, USA",8909 Briardale Drive in Austin (TX),30.3652582,-97.7141546,1,78758,OK
+453,"1034 Clayton Ln, Austin, TX 78723, USA",1034 Clayton in Austin (TX),30.3197948,-97.7036191,1,78723,OK
+454,"10609 Garbacz Dr, Austin, TX 78748, USA",10609 Garbacz Dr in Austin (TX),30.1602257,-97.8249615,1,78748,OK
+455,"8001 S 1st St, Austin, TX 78748, USA",8001 S 1St St in Austin (TX),30.18278639999999,-97.79306009999999,1,78748,OK
+456,"1423 Westmoor Dr, Austin, TX 78723, USA",1423 Westmoor Dr in Austin (TX),30.30844699999999,-97.7005387,1,78723,OK
+457,"2206 Blue Meadow Dr, Austin, TX 78744, USA",2206 Blue Meadow Drive in Austin (TX),30.1820835,-97.76336889999999,1,78744,OK
+458,"13201 Ranch Rd 620 N, Austin, TX 78717, USA",13201 Ranch Rd 620 N in Austin (TX),30.4673291,-97.7953503,1,78717,OK
+459,"Hamilton Point Cir, Manor, TX 78653, USA",Hamilton Point Cir & Jaron Dr in Manor (TX),30.3383754,-97.5499914,2,78653,OK
+460,"12931 Heyerdahl Dr, Austin, TX 78753, USA",12931 Heyerdahl in Pflugerville (TX),30.4023072,-97.65114469999999,1,78753,OK
+461,"Burleson Rd & Montopolis Dr, Austin, TX 78744, USA",Montopolis Drive And Burleson Road in Austin (TX),30.2055131,-97.7165557,1,78744,OK
+462,"20032 Moorlynch Ave, Pflugerville, TX 78660, USA",20032 Moorlynch Ave in Travis (TX),30.4712142,-97.56905479999999,1,78660,OK
+463,"500 Bastrop Hwy, Austin, TX 78741, USA",500 Bastrop Highway in Austin (TX),30.2366007,-97.68804460000001,1,78741,OK
+465,"Barton Creek Greenbelt, 3755 S Capital of Texas Hwy B, Austin, TX 78704, USA",Barton Hills Dr And Barton Greenbelt Trail in Austin (TX),30.24716699999999,-97.8126892,1,78704,OK
+467,"4812 Eastdale Dr, Austin, TX 78723, USA",4812 Eastdale Dr in Austin (TX),30.2877216,-97.669923,1,78723,OK
+468,"15512 Ozone Pl, Austin, TX 78728, USA",15512 Ozone Pl in Austin (TX),30.4607539,-97.68730699999999,1,78728,OK
+469,"2609 Howellwood Way, Austin, TX 78748, USA",2609 Howellwood in Austin (TX),30.1757811,-97.8338845,1,78748,OK
+470,"11406 Hereford St, Manor, TX 78653, USA",11406 Hereford in Manor (TX),30.3371506,-97.5632549,1,78653,OK
+471,"7510 Compass Dr, Austin, TX 78724, USA",7510 Compass Drive in Austin (TX),30.308345,-97.64059789999999,1,78724,OK
+472,"5807 Steven Creek Way, Austin, TX 78721, USA",5807 Steven Creek Way in Austin (TX),30.2599866,-97.68536300000001,1,78721,OK
+473,"12213 Stoney Meadow Dr, Del Valle, TX 78617, USA",12213 Stoney Meadow Dr in Travis (TX),30.1588022,-97.63703249999999,1,78617,OK
+474,"13730 N FM 620, Austin, TX 78717, USA",13730 N Fm 620 in Austin (TX),30.4772338,-97.77514219999999,1,78717,OK
+475,"3010 Garden Villa Ln, Austin, TX 78704, USA",3010 Garden Villa Ln in Austin (TX),30.2366726,-97.7691542,1,78704,OK
+476,,2425 Ashdale #18 in Austin (TX),,,0,,REQUEST_DENIED
+478,"1800 Celeste Cir, Austin, TX 78721, USA",1800 Celeste Cir in Austin (TX),30.2842855,-97.6811585,1,78721,OK
+479,"Travis, TX 76570, USA",Travis (TX),31.1354588,-97.0027678,1,76570,OK
+480,"Compass Dr, Austin, TX 78724, USA",Compass Dr in Austin (TX),30.3086052,-97.640549,1,78724,OK
+481,"6505 Lynch Ln, Austin, TX 78741, USA",6505 Lynch in Austin (TX),30.2377541,-97.6916749,1,78741,OK
+482,"11680 Research Blvd, Austin, TX 78759, USA",Us 183 And Duval in Austin (TX),30.4185614,-97.74783599999999,1,78759,OK
+483,"5200 E Stassney Ln, Austin, TX 78744, USA",5200 Stassney And Nuckols in Austin (TX),30.1933928,-97.73848749999999,1,78744,OK
+484,"12009 Buckingham Gate Rd, Austin, TX 78748, USA",12009 Buckingham Gate Rd in Austin (TX),30.1538605,-97.8520742,1,78748,OK
+485,"6801 S IH 35 Frontage Rd #1- D, Austin, TX 78744, USA",6801 S I H 35 in Austin (TX),30.1876985,-97.7708607,1,78744,OK
+486,"11906 Broad Leaf Cove, Austin, TX 78750, USA",11906 Broad Leaf Cv in Austin (TX),30.4595435,-97.8211376,1,78750,OK
+487,"5508 Prock Ln, Austin, TX 78721, USA",5508 Prock Ln in Austin (TX),30.2674522,-97.6817945,1,78721,OK
+488,"4404 Quicksilver Blvd, Austin, TX 78744, USA",4404 Quicksilver Dr in Austin (TX),30.1743907,-97.7623618,1,78744,OK
+489,"11907 Rustle Ln, Austin, TX 78750, USA",11907 Rustle in Austin (TX),30.452032,-97.808352,1,78750,OK
+490,"1604 Darjeeling Dr, Pflugerville, TX 78660, USA",1604 Darjeeling in Pflugerville (TX),30.4238657,-97.6360155,1,78660,OK
+491,"11900 Stonehollow Dr, Austin, TX 78758, USA",11900 Stonehollow Dr in Austin (TX),30.4010873,-97.707461,1,78758,OK
+492,"7201 Levander Loop, Austin, TX 78702, USA",7201 Levander Loop in Austin (TX),30.2527847,-97.6904186,1,78702,OK
+493,"1101 Brushy Creek Rd, Cedar Park, TX 78613, USA",1101 Brushy Creek Rd in Cedar Park (TX),30.504437,-97.80258099999999,1,78613,OK
+494,,Outside Jurisdiction,,,0,,ZERO_RESULTS
+496,"9121 N Interstate Hwy 35, Austin, TX 78753, USA",9121 N Ih 35 in Austin (TX),30.3553322,-97.68869699999999,1,78753,OK
+497,"1430 Briarcliff Blvd, Austin, TX 78723, USA",1430 Briarcliff Blvd in Austin (TX),30.3154981,-97.69485549999999,1,78723,OK
+498,"2317 S Pleasant Valley Rd, Austin, TX 78741, USA",2317 S Pleasant Valley Dr in Austin (TX),30.2293751,-97.7259097,1,78741,OK
+499,"11602 Prairie Hen Ln, Austin, TX 78758, USA",11602 Prairie Hen in Austin (TX),30.3928679,-97.7020656,1,78758,OK
+500,"E Oltorf St & Wickersham Ln, Austin, TX 78741, USA",Wickersham Ln And E Oltorf St in Austin (TX),30.22561129999999,-97.72435639999999,1,78741,OK
+501,"7122 Wood Hollow Dr, Austin, TX 78731, USA",7122 Wood Hollow Dr in Austin (TX),30.3549751,-97.7523042,1,78731,OK
+503,,Outside Jurisdiction,,,0,,ZERO_RESULTS
+504,"11512 Travis St, Jonestown, TX 78645, USA",11512 Travis St in Jonestown (TX),30.5004951,-97.91215779999999,1,78645,OK
+505,"8704 Ingrid Dr, Elgin, TX 78621, USA",8704 Ingrid Dr in Travis (TX),30.2780676,-97.4619915,1,78621,OK
+506,"2416 Burleson Ct, Austin, TX 78741, USA",2416 Burleson Court in Austin (TX),30.2292012,-97.7349442,1,78741,OK
+507,"7201 Levander Loop, Austin, TX 78702, USA",7201 Levander Loop in Austin (TX),30.2527847,-97.6904186,1,78702,OK
+509,"E 46th St & Airport Blvd, Austin, TX 78751, USA",Airport/46Th St in Austin (TX),30.30484939999999,-97.7159389,1,78751,OK
+510,"Krebs Ln, Austin, TX 78704, USA",Krebs Ln & Fort Mcgruder in Austin (TX),30.2265362,-97.7657625,8,78704,OK
+511,"4906 Imperial Dr N, Austin, TX 78724, USA",4906 N Imperial Dr in Austin (TX),30.267665,-97.62500600000001,1,78724,OK
+512,"1304 S Webberwood Way, Webberville, TX 78621, USA",1304 South Webberwood Way in Travis (TX),30.2230934,-97.4888076,1,78621,OK
+513,"11420 Rock Rose Ave, Austin, TX 78758, USA",11420 Rock Rose Ave in Austin (TX),30.4008303,-97.72316110000001,1,78758,OK
+514,"Dee Gabriel Collins Rd, Austin, TX 78744, USA",Dg Collins in Austin (TX),30.1756102,-97.70617159999999,1,78744,OK
+515,"1071 Clayton Ln, Austin, TX 78723, USA",1071 Clayton Ln in Austin (TX),30.3187966,-97.7034652,1,78723,OK
+516,"W 23rd St & San Gabriel St, Austin, TX 78705, USA",W. 23Rd St And San Gabriel St in Austin (TX),30.2871751,-97.74793199999999,1,78705,OK
+518,"7213 Inspiration Dr, Austin, TX 78724, USA",7213 Inspiration Dr. in Austin (TX),30.3102383,-97.6532639,1,78724,OK
+519,"2223 Waterloo City Ln, Austin, TX 78741, USA",Bell Spring And West Lake Shore in Austin (TX),30.2419812,-97.7235403,1,78741,OK
+520,"Weiss Ln, Irving, TX 75039, USA",Weiss Ln & Jesse Bohls Rd in Pflugerville (TX),32.8626554,-96.92667209999999,10,75039,OK
+521,"2404 Dovehill Dr, Austin, TX 78744, USA",2404 Dovehill Dr in Austin (TX),30.190476,-97.7548485,1,78744,OK
+523,"2504 Huntwick Dr, Austin, TX 78741, USA",2504 Huntwick Dr in Austin (TX),30.223966,-97.72762469999999,1,78741,OK
+524,"21st St & Delmar Ave, Granite City, IL 62040, USA",Delmar Ave & Duval St in Austin (TX),38.703511,-90.14832,1,62040,OK
+525,,Outside Jurisdiction,,,0,,ZERO_RESULTS
+526,"Harris Branch Pkwy & Giles Ln, Austin, TX 78754, USA",Giles And Harris Branch in Austin (TX),30.3452344,-97.61352540000001,1,78754,OK
+527,"73 San Marcos St, Austin, TX 78702, USA",73 San Marcos St in Austin (TX),30.2579923,-97.7350561,1,78702,OK
+529,"Steeds Crossing, Texas 78660, USA",Steed'S Crossing in Austin (TX),30.4920604,-97.5774929,1,78660,OK
+530,"907 W Slaughter Ln, Austin, TX 78748, USA",907 W Slaughter Ln in Austin (TX),30.1587351,-97.80824439999999,2,78748,OK
+531,"7706 Northcross Dr, Austin, TX 78757, USA",7706 Northcross Blvd in Austin (TX),30.354013,-97.7360291,1,78757,OK
+532,"6119 Atwood St, Austin, TX 78741, USA",6119 Atwood St in Austin (TX),30.239033,-97.6965943,1,78741,OK
+533,"FM973 & Pearce Ln, Texas 78617, USA",Pearce Ln And Hwy 973 in Austin (TX),30.1805802,-97.6466179,1,78617,OK
+534,"14013 Golden Flax Trail, Pflugerville, TX 78660, USA",14013 Golden Flax in Travis (TX),30.4221188,-97.6581807,1,78660,OK
+535,"10719 Doyle Overton Rd, Del Valle, TX 78617, USA",10719 Doyle Overton Rd in Del Valle (TX),30.0904308,-97.62713869999999,1,78617,OK
+536,"1503 Demaret St, Pflugerville, TX 78660, USA",1503 Demaret St in Pflugerville (TX),30.4469445,-97.6620381,1,78660,OK
+537,"S Pleasant Valley Rd & E Riverside Dr, Austin, TX 78741, USA",Riverside And Pleasant Valley in Austin (TX),30.234143,-97.7228689,2,78741,OK
+538,"Lago Vista, TX 78645, USA",Lago Vista (TX),30.4601975,-97.98834769999999,1,78645,OK
+539,"2315 Dovehill Dr, Austin, TX 78744, USA",2315 Dovehill in Austin (TX),30.1906498,-97.7556974,1,78744,OK
+540,"Bluff Springs Rd & Chateau Village Way, Austin, TX 78744, USA",Bluff Springs And Chateau Villalge Way in Austin (TX),30.1734611,-97.7688124,1,78744,OK
+541,"5800 Techni Center Dr, Austin, TX 78721, USA",5800 Techni Center Dr in Austin (TX),30.2797067,-97.6699519,1,78721,OK
+543,"4705 Bayside Dr, Austin, TX 78744, USA",4705 Bayside in Austin (TX),30.2004137,-97.7406305,1,78744,OK
+544,"West Ave & W 30th St, Austin, TX 78705, USA",W 30Th/ West Ave in Austin (TX),30.2980878,-97.7449545,1,78705,OK
+545,"279A, 8220 TX-71, Austin, TX 78735, USA",8220 Sh 71 in Travis (TX),30.2475924,-97.8863259,1,78735,OK
+546,"Valley Hill Cir & Burton Dr, Austin, TX 78741, USA",Valley Hill Cir And Burton in Austin (TX),30.2345025,-97.7306567,1,78741,OK
+547,"Travis, TX 76570, USA",Travis (TX),31.1354588,-97.0027678,1,76570,OK
+548,"18343 Basket Flower Bend, Elgin, TX 78621, USA",18343 Basket Flower Bend in Travis (TX),30.3495582,-97.4281433,1,78621,OK
+549,"2206 Blue Meadow Dr, Austin, TX 78744, USA",2206 Blue Meadow Dr in Austin (TX),30.1820835,-97.76336889999999,1,78744,OK
+550,,Outside Jurisdiction,,,0,,ZERO_RESULTS
+551,"9402 Crownspoint Cir, Austin, TX 78748, USA",9402 Crownspoint in Austin (TX),30.1822917,-97.8291679,1,78748,OK
+552,"2451 S Capital of Texas Hwy, Austin, TX 78746, USA",2451 S Captial Texas Hwy in Austin (TX),30.263487,-97.8157147,1,78746,OK
+553,"Woodrow Ave & Houston St, Austin, TX 78756, USA",Woodrow Ave And Houston Ave in Austin (TX),30.3263288,-97.734465,1,78756,OK
+554,"1525 Grand Ave Pkwy, Pflugerville, TX 78660, USA",1525 Grand Avenue Pkwy in Pflugerville (TX),30.4557219,-97.6571378,1,78660,OK
+555,"12416 Coronet St, Austin, TX 78727, USA",12416 Coronet in Austin (TX),30.4230652,-97.7187787,1,78727,OK
+556,"Canoga Ave & Decker Ln, Texas 78724, USA",Canoga And Decker in Austin (TX),30.2835134,-97.6329183,1,78724,OK
+557,"8221 N Interstate Hwy 35, Austin, TX 78753, USA",8221 N Interstate Hwy 35 in Austin (TX),30.34454,-97.695882,1,78753,OK
+558,"Redd St, Richmond, VA 23223, USA",Redd St & Jinx Ave in Austin (TX),37.5464015,-77.4191743,10,23223,OK
+559,"8800 N Interstate Hwy 35, Austin, TX 78753, USA",8800 N Ih 35 in Austin (TX),30.35222559999999,-97.69410859999999,1,78753,OK
+560,"Schriber Rd, Texas 78610, USA",Schriber Rd in Travis (TX),30.0746718,-97.674329,1,78610,OK
+561,"7100 Bluff Springs Rd, Austin, TX 78744, USA",7100 Bluff Springs Road in Austin (TX),30.1839288,-97.7708737,1,78744,OK
+562,"9000 Cattle Chute Crossing, Austin, TX 78717, USA",9000 Cattle Shute Xing in Austin (TX),30.491499,-97.75255639999999,1,78717,OK
+563,"1802 Crazyhorse Pass, Austin, TX 78734, USA",1802 Crazy Horse in Travis (TX),30.3752528,-97.931899,1,78734,OK
+564,"4434 Frontier Trail, Austin, TX 78745, USA",4434 Frontier Trl in Austin (TX),30.23144,-97.795757,1,78745,OK
+565,"10900 Research Blvd, Austin, TX 78759, USA",Braker Ln And Hwy 183 in Austin (TX),30.401952,-97.746882,1,78759,OK
+566,"Sheraton Ave, Austin, TX 78745, USA",Sheraton Ave & Old Castle Rd in Austin (TX),30.2134113,-97.7644006,10,78745,OK
+567,"5717 Jfk Dr, Austin, TX 78724, USA",5717 Jfk Rd in Travis (TX),30.2550747,-97.57318839999999,1,78724,OK
+568,"4521 West Gate Blvd, Austin, TX 78745, USA",Westgate/S Lamar In A  Parking Lot in Austin (TX),30.231673,-97.80006399999999,1,78745,OK
+569,"104 Cross Creek, Lakeway, TX 78734, USA",104 Cross Creek in Travis (TX),30.362209,-97.9798948,1,78734,OK
+570,"7209 Barnsdale Way, Austin, TX 78745, USA",7209 Barnsdale in Austin (TX),30.1921992,-97.7930177,1,78745,OK
+571,"808 Woodrow Wilson Ray Cir, Bridgeport, TX 76426, USA",Bridgeport Dr & Fairfield Dr in Austin (TX),33.2213409,-97.75936929999999,1,76426,OK
+572,,Outside Jurisdiction,,,0,,ZERO_RESULTS
+573,"18536 Blue Pond Dr, Pflugerville, TX 78660, USA",18536 Blue Pond Dr in Pflugerville (TX),30.4498461,-97.5656254,1,78660,OK
+574,"Lightsey Rd & S 1st St, Austin, TX 78704, USA",S 1St / Lightsey in Austin (TX),30.2324512,-97.7657376,1,78704,OK
+575,"10108 Oak Hollow Dr, Austin, TX 78758, USA",10108 Oak Hollow Dr in Austin (TX),30.3773474,-97.7072403,1,78758,OK
+576,"501 Sweet Leaf Ln, Pflugerville, TX 78660, USA",501 Sweet Leaf in Pflugerville (TX),30.4227271,-97.6308143,1,78660,OK
+577,"7001 Craybrough Cir, Austin, TX 78724, USA",7001 Craybrough in Austin (TX),30.3029053,-97.6461861,1,78724,OK
+578,"8814 Tallwood Dr, Austin, TX 78759, USA",8814 Tallwood Dr in Austin (TX),30.37813689999999,-97.74235259999999,1,78759,OK
+579,"Cheyenne Valley Dr & N Heatherwilde Blvd, Pflugerville, TX 78660, USA",Cheyenne Valley Dr And N Heatherwilde Blvd in Travis (TX),30.48919889999999,-97.6102442,1,78660,OK
+581,"7247 Cameron Rd, Austin, TX 78752, USA",7247 Cameron Rd in Austin (TX),30.3275477,-97.6909539,1,78752,OK
+582,"2301 Polaris Ave, Austin, TX 78757, USA",2301 Polaris St in Austin (TX),30.368721,-97.72675799999999,1,78757,OK
+583,"21506 Ann Showers Dr, Elgin, TX 78621, USA",21506 Ann Showers in Travis (TX),30.278975,-97.477453,1,78621,OK
+584,"E Martin Luther King Jr Blvd & Airport Blvd, Austin, TX 78702, USA",Airport Blvd And Mlk Blvd in Austin (TX),30.2825403,-97.70398689999999,1,78702,OK
+585,"Summer Cir & Faro Dr, Austin, TX 78741, USA",Summer Cir And Faro Dr in Austin (TX),30.2313225,-97.7124333,1,78741,OK
+586,"16622 Wells Rd, Manor, TX 78653, USA",16622 Wells Rd in Travis (TX),30.408511,-97.42570699999999,1,78653,OK
+587,,Outside Jurisdiction,,,0,,ZERO_RESULTS
+588,"1604 Ranch Rd 620 S, Lakeway, TX 78734, USA",1604 Ranch Road 620 South in Austin (TX),30.3462137,-97.9652157,1,78734,OK
+589,"4106 N Lamar Blvd, Austin, TX 78756, USA",4106 N Lamar Blvd in Austin (TX),30.3094768,-97.7407154,1,78756,OK
+590,"5708 W Parmer Ln, Austin, TX 78727, USA",5708 West Parmer Lane in Travis (TX),30.4392056,-97.7358989,1,78727,OK
+591,"Manassas Dr & Roehampton Dr, Austin, TX 78745, USA",Manassas Dr And Roehampton Dr in Austin (TX),30.1969868,-97.8165317,1,78745,OK
+592,"2319 Montague St, Austin, TX 78741, USA",2319 Montague in Austin (TX),30.2190695,-97.6984118,1,78741,OK
+593,"6001 Cougar Dr, Austin, TX 78745, USA",6001 Cougar Dr in Austin (TX),30.2063988,-97.7863079,1,78745,OK
+594,"Castle Ridge Rd, Austin, TX 78746, USA",Castle Ridge in Austin (TX),30.2928262,-97.835646,1,78746,OK
+595,"6502 S 1st St, Austin, TX 78745, USA",6502 S 1St St in Austin (TX),30.1993027,-97.7869661,1,78745,OK
+597,"7115 Dee Gabriel Collins Rd, Austin, TX 78744, USA",7115 Dee Gabriel Collins Rd in Austin (TX),30.1730763,-97.72095589999999,1,78744,OK
+598,"Del Curto Rd, Austin, TX 78704, USA",Del Curto Rd in Austin (TX),30.2439412,-97.7768899,1,78704,OK
+599,"8220 Research Blvd, Austin, TX 78758, USA",8220 Research Blvd in Austin (TX),30.3545076,-97.7155633,1,78758,OK
+600,"11900 Jollyville Rd, Austin, TX 78759, USA",Us 183 And Jollyville Rd in Austin (TX),30.4236145,-97.75731329999999,2,78759,OK
+601,,Outside Jurisdiction,,,0,,ZERO_RESULTS
+602,"1931 E Ben White Blvd, Austin, TX 78741, USA",1931 E Ben White in Austin (TX),30.215416,-97.7449381,1,78741,OK
+603,"Izetta Ln, Texas 78744, USA",Izetta Ln & Bonneville Bend in Austin (TX),30.17693539999999,-97.6968571,1,78744,OK
+604,"6405 S IH 35 Frontage Rd, Austin, TX 78744, USA",6405 S Ih 35 in Austin (TX),30.1914238,-97.76713509999999,1,78744,OK
+605,"7201 Levander Loop, Austin, TX 78702, USA",7201 Levander Loop in Austin (TX),30.2527847,-97.6904186,1,78702,OK
+606,"6900 Colt Ct, Buda, TX 78610, USA",6900 Colt Ct in Mustang Ridge (TX),30.0596776,-97.7200939,1,78610,OK
+607,"W Parmer Ln & Metric Blvd, Austin, TX 78758, USA",W Parmer Ln And Metric Blvd in Austin (TX),30.4132017,-97.69067869999999,1,78758,OK
+608,"15877 Long Vista Dr, Austin, TX 78728, USA",15877 Long Vista Drive in Austin (TX),30.4601804,-97.6746502,1,78728,OK
+609,"Bluff Bend Dr & Newport Ave, Austin, TX 78753, USA",Newport And Bluff Bend in Austin (TX),30.3653776,-97.6782102,1,78753,OK
+610,"9505 Aberdeen Way, Austin, TX 78753, USA",9505 Aberdeen in Austin (TX),30.353935,-97.6776817,1,78753,OK
+611,"4704 Louis Ave, Austin, TX 78721, USA",4704 Louis Ave. in Austin (TX),30.27627739999999,-97.6872964,1,78721,OK
+612,"10206 N Interstate 35 Frontage Rd, Austin, TX 78753, USA",10206 North Interstate 35 Frontage Road in Austin (TX),30.3665875,-97.6833511,1,78753,OK
+613,"4604 Knottingwood Ct, Austin, TX 78744, USA",4604 Knottingwood in Austin (TX),30.1720701,-97.7612113,1,78744,OK
+614,"5808 Wilcab Rd, Austin, TX 78721, USA",5808 Wilcab Rd in Austin (TX),30.2740733,-97.6760175,1,78721,OK
+615,"15204 Sweet Caddie's Dr, Pflugerville, TX 78660, USA",15204 Sweet Caddies Dr in Travis (TX),30.4410503,-97.65652759999999,1,78660,OK
+616,"12609 Lexington St, Manor, TX 78653, USA",12609 Lexington Street in Manor (TX),30.3496619,-97.5555724,1,78653,OK
+617,"5200 Bolm Rd, Austin, TX 78721, USA",5200 Bolm Rd in Austin (TX),30.25998,-97.69042379999999,1,78721,OK
+618,"Travis, TX 76570, USA",Travis (TX),31.1354588,-97.0027678,1,76570,OK
+619,"4606 Clawson Rd, Austin, TX 78745, USA",4606 Clawson Rd in Austin (TX),30.2225371,-97.7869024,1,78745,OK
+620,"McNeil Dr & Howard Ln, Texas 78729, USA",Howard Ln And Mcniel Rd in Austin (TX),30.4489807,-97.72561040000001,1,78729,OK
+621,"E 12th St & N Pleasant Valley Rd, Austin, TX 78702, USA",Pleasant Valley And 12St in Austin (TX),30.2743992,-97.7159948,1,78702,OK
+622,"13304 Thome Valley Dr, Del Valle, TX 78617, USA",13304 Thome Valley in Travis (TX),30.1733997,-97.6134338,1,78617,OK
+623,"6908 Branchwood Dr, Austin, TX 78744, USA",6908 Branchwood Dr in Austin (TX),30.1805444,-97.75985730000001,1,78744,OK
+624,"1201 Payton Gin Rd, Austin, TX 78758, USA",1201 Payton Gin in Austin (TX),30.3602094,-97.7083219,1,78758,OK
+625,"1156 W Cesar Chavez St, Austin, TX 78703, USA",1156 W Cesar Chavez St in Austin (TX),30.269764,-97.7591144,1,78703,OK
+626,"Kemp St & Atwood St, Austin, TX 78741, USA",Atwood And Kemp in Austin (TX),30.23895389999999,-97.6960465,1,78741,OK
+627,"Berkman Dr & E 51st St, Austin, TX 78723, USA",51St And Berkman Dr in Austin (TX),30.30389749999999,-97.69902689999999,1,78723,OK
+628,"5310 Burnet Rd, Austin, TX 78756, USA",5310 Burnet Rd in Austin (TX),30.3267373,-97.7405947,1,78756,OK
+629,"1701 Red River St, Austin, TX 78701, USA",8412 Garcreek C in Austin (TX),30.2768975,-97.7321857,1,78701,OK
+630,"1809 Tolstoy Cir, Round Rock, TX 78664, USA",1809 Tolstoy Cir in Travis (TX),30.4716079,-97.6548746,1,78664,OK
+631,"5801 Signal Point, Austin, TX 78724, USA",5801 Signal Point Blvd in Austin (TX),30.2892848,-97.644565,1,78724,OK
+632,"8405 Old Bee Cave Rd, Austin, TX 78735, USA",8405 Old Bee Caves Road in Austin (TX),30.2504871,-97.8874476,1,78735,OK
+633,"9705 Criswell, Austin, TX 78754, USA",9705 Criswell in Travis (TX),30.3507342,-97.65927599999999,1,78754,OK
+634,"10701 S 1st St, Austin, TX 78748, USA",10701 S. 1St Street in Austin (TX),30.1489844,-97.80185469999999,1,78748,OK
+635,"5712 Emerald Forest Dr, Austin, TX 78745, USA",5712 Emerald Forest in Austin (TX),30.2092669,-97.78855860000002,1,78745,OK
+636,"701 Woodward St, Austin, TX 78704, USA",701 Woodward St in Austin (TX),30.2254079,-97.7521125,1,78704,OK
+637,"7112 Hillcroft Dr, Austin, TX 78724, USA",7112 Hillcroft Dr in Austin (TX),30.3038694,-97.6411854,1,78724,OK
+638,"Lyons Rd & Tillery St, Austin, TX 78702, USA",Lyons Rd/Tillery St in Austin (TX),30.2624782,-97.70385360000002,1,78702,OK
+640,"E Rundberg Ln & Dessau Rd, Austin, TX 78754, USA",Dessau Rd/E Rundberg Ln in Austin (TX),30.3508497,-97.6760214,1,78754,OK
+641,"2101 E St Elmo Rd, Austin, TX 78744, USA",2101 E. St Elmo in Austin (TX),30.2092689,-97.74663609999999,1,78744,OK
+643,"2400 S Lakeshore Blvd, Austin, TX 78741, USA",2400 S Lakeshore Blvd in Austin (TX),30.2432412,-97.7192298,1,78741,OK
+644,"E 12th St & Chicon St, Austin, TX 78702, USA",E12Th And Chicon in Austin (TX),30.2737572,-97.719895,1,78702,OK
+645,"12221 N Mopac Expy, Austin, TX 78759, USA",12221 North Mopac in Austin (TX),30.4114435,-97.70628219999999,1,78759,OK
+646,"4211 S Lamar Blvd, Austin, TX 78704, USA",4211 S Lamar Blvd in Austin (TX),30.2337708,-97.7924086,1,78704,OK
+648,"9201 Circuit of the Americas Blvd, Austin, TX 78617, USA",Circuit Of The Americas in Travis (TX),30.1345808,-97.6358511,1,78617,OK
+649,"7020 Grand Canyon Dr, Austin, TX 78752, USA",7020 Grand Canyon Dr 108 in Austin (TX),30.3263353,-97.69559029999999,1,78752,OK
+650,"E Riverside Dr & S Hwy 183, Austin, TX 78744, USA",Hwy 183 And E Riverside Dr in Austin (TX),30.2176569,-97.68343089999999,1,78744,OK
+651,"Travis, TX 76570, USA",Travis (TX),31.1354588,-97.0027678,1,76570,OK
+652,"2200 W 35th St, Austin, TX 78763, USA",2200 W 35Th in Austin (TX),30.3137419,-97.7612793,2,78763,OK
+653,"10535 Boyer Blvd, Austin, TX 78758, USA",10535 Boyer Blvd in Austin (TX),30.3844654,-97.70984899999999,1,78758,OK
+654,"N Lamar Blvd & W Rundberg Ln, Austin, TX 78753, USA",North Lamar And Rundberg in Austin (TX),30.363062,-97.6970274,1,78753,OK
+656,"N Lamar Blvd & Morrow St, Austin, TX 78752, USA",Morrow Street And Norht Lamar Boulevard in Austin (TX),30.3440003,-97.7150441,1,78752,OK
+657,"9302 Brents Elm Dr, Austin, TX 78744, USA",9302 Brents Elm Dr in Austin (TX),30.15986999999999,-97.7804905,1,78744,OK
+658,"1906 Chestnut Ave, Austin, TX 78722, USA",1906 Chestnut Ave in Austin (TX),30.2810583,-97.7177181,1,78722,OK
+659,"1401 E Rundberg Ln, Austin, TX 78753, USA",1401 E Rundberg Ln in Austin (TX),30.3490239,-97.67995839999999,1,78753,OK
+660,"A, 8700 Research Blvd, Austin, TX 78757, USA",8700 Research Blvd in Austin (TX),30.3647441,-97.7191588,1,78757,OK
+661,"1403 Citation Cir, Del Valle, TX 78617, USA",1403 Citation Cir in Del Valle (TX),30.2231469,-97.5211918,1,78617,OK
+662,"E 12th St & Airport Blvd, Austin, TX 78702, USA",12Th And Airport Blvd in Austin (TX),30.2768544,-97.7003386,1,78702,OK
+663,"Congress Ave & W 5th St, Austin, TX 78701, USA",Congress Ave And 5Th St in Austin (TX),30.2671174,-97.74313049999999,1,78701,OK
+664,"9300 S IH 35 Frontage Rd, Austin, TX 78748, USA",9300 S Ih 35 in Austin (TX),30.1636038,-97.79054459999999,1,78748,OK
+665,"1210 Neans Dr, Austin, TX 78758, USA",1210 Neans Drive in Austin (TX),30.3767461,-97.6999873,1,78758,OK
+666,"Covert Park at Mount Bonnell, 3800 Mt Bonnell Rd, Austin, TX 78731, USA",Mt Bonnell Rd And Colorado in Austin (TX),30.3216371,-97.7732331,2,78731,OK
+668,"Los Robles Cir, Oak Ranch, TX 78617, USA",Los Robles Cir in Austin (TX),30.17568189999999,-97.6272726,1,78617,OK
+669,"7325 Gaines Mill Ln, Austin, TX 78745, USA",7325 Gaines Mill in Austin (TX),30.19871079999999,-97.811579,1,78745,OK
+670,"8707 Lindell Ln, Austin, TX 78724, USA",8707 Lindell Ln in Austin (TX),30.3193383,-97.60331719999999,1,78724,OK
+671,"Winter Haven Rd, Austin, TX 78747, USA",Winter Haven Rd in Austin (TX),30.1498391,-97.74080529999999,1,78747,OK
+672,"Hergotz Ln & Thompson Ln, Austin, TX 78742, USA",Hergotz And Thompson in Austin (TX),30.2458045,-97.6801921,1,78742,OK
+673,"7209 Barnsdale Way, Austin, TX 78745, USA",7209 Barnsdale in Austin (TX),30.1921992,-97.7930177,1,78745,OK
+674,"1000 E 41st St, Austin, TX 78751, USA",1000 E 41St St in Austin (TX),30.2998354,-97.7199409,1,78751,OK
+676,"13800 Long Meadow Dr, Pflugerville, TX 78660, USA",13800 Long Meadow in Travis (TX),30.406598,-97.63359799999999,1,78660,OK
+677,"109 E St Johns Ave, Austin, TX 78752, USA",109 E St Johns in Austin (TX),30.3351008,-97.70940360000002,1,78752,OK
+678,"341 King St E, Toronto, ON M5A 4R7, Canada",Georgian Dr & Anderson Ln in Austin (TX),43.6513281,-79.36573949999999,1,M5A 4R7,OK
+679,"1820 Wooten Park Dr, Austin, TX 78757, USA",1820 Wooten Park Dr. in Austin (TX),30.3545348,-97.7249748,1,78757,OK
+680,"1817 E Oltorf St, Austin, TX 78741, USA",1817 E Oltorf in Austin (TX),30.2305034,-97.7367901,1,78741,OK
+681,"5710 E Martin Luther King Jr Blvd, Austin, TX 78723, USA",5710 E Mlk Jr in Austin (TX),30.2866728,-97.6683333,1,78723,OK
+682,"4705 Bayside Dr, Austin, TX 78744, USA",4705 Bayside in Austin (TX),30.2004137,-97.7406305,1,78744,OK
+683,"4434 Frontier Trail, Austin, TX 78745, USA",4434 Frontier in Austin (TX),30.23144,-97.795757,1,78745,OK
+684,"2301 Rachael Ct, Austin, TX 78748, USA",2301 Rachel Cv in Austin (TX),30.1771478,-97.8275108,1,78748,OK
+685,"9009 Brown Ln, Austin, TX 78754, USA",9009 Brown Ln in Austin (TX),30.3454129,-97.6733995,1,78754,OK
+686,"2109 Granberry Dr, Austin, TX 78745, USA",2109 Granberry in Austin (TX),30.1995647,-97.8115365,1,78745,OK
+687,"3416 River Rd, Austin, TX 78703, USA",3416 River Rd in Travis (TX),30.3068594,-97.7724435,1,78703,OK
+688,"7901 Bramble Bush Dr, Austin, TX 78747, USA",7901 Bramble Drive in Austin (TX),30.158677,-97.7385511,1,78747,OK
+689,"Sterzing St & Barton Springs Rd, Austin, TX 78704, USA",Barton Springs And Sterzing St in Austin (TX),30.26384609999999,-97.7636349,1,78704,OK
+690,"Island Oak Dr, Austin, TX 78748, USA",Island Oaks in Austin (TX),30.1577908,-97.8017405,1,78748,OK
+691,"9807 Capitol View Dr, Austin, TX 78747, USA",9807 Capitol View in Travis (TX),30.1396979,-97.750986,1,78747,OK
+692,"Montopolis Dr & E Riverside Dr, Austin, TX 78741, USA",Montopolis And Riverside in Austin (TX),30.2248747,-97.7034758,1,78741,OK
+693,"Harris Branch Neighborhood Park, Farmhaven Rd, Austin, TX 78754, USA",Harris Branch Sub Dividion in Austin (TX),30.34994,-97.6193857,2,78754,OK
+694,"Atkinson Rd & Blessing Ave, Austin, TX 78752, USA",Blessing Ave And Atkinson Rd in Austin (TX),30.32561,-97.6970436,1,78752,OK
+695,"N Lamar Blvd & Ferguson Dr, Austin, TX 78758, USA",North Lamar And Ferguson in Austin (TX),30.3776572,-97.6887895,1,78758,OK
+696,"Merrilltown Dr & Bratton Ln, Wells Branch, TX 78728, USA",Bratton Lane And Merriltown Ln in Austin (TX),30.4458373,-97.68655530000001,1,78728,OK
+697,"1600 Wickersham Ln, Austin, TX 78741, USA",1600 Wickersham Ln in Austin (TX),30.2364768,-97.718735,1,78741,OK
+698,"Ross Rd & E Hwy 71, Garfield, TX 78617, USA",Ross Rd And Highway 71 in Austin (TX),30.1864188,-97.60953789999999,1,78617,OK
+699,"Harvey St & E 18th St, Austin, TX 78702, USA",E 18Th And Harvey in Austin (TX),30.2807918,-97.70526509999999,1,78702,OK
+700,"7201 Levander Loop, Austin, TX 78702, USA",7201 Levander Loop in Austin (TX),30.2527847,-97.6904186,1,78702,OK
+701,"5101 Merritt Dr, Austin, TX 78744, USA",5101 Merritt in Austin (TX),30.2016322,-97.7533629,1,78744,OK
+702,"Fiesta (3909 S Ih35/38Th Half), Austin, TX 78722, USA",38Th And Ih35 in Austin (TX),30.2963332,-97.7183161,1,78722,OK
+703,"2443 E State Hwy 71 Service Rd, Del Valle, TX 78617, USA",2443 East State Highway 71 Service Road in Del Valle (TX),30.2135971,-97.6587959,1,78617,OK
+704,"1700 Burton Dr, Austin, TX 78741, USA",1700 Burton Dr in Austin (TX),30.2366129,-97.7287967,1,78741,OK
+705,"Travis, TX 76570, USA",Travis (TX),31.1354588,-97.0027678,1,76570,OK
+706,"4014 W William Cannon Dr, Austin, TX 78749, USA",4014 W William Cannon Dr in Austin (TX),30.219592,-97.835475,1,78749,OK
+707,"10555 US-290, Manor, TX 78653, USA",10555 U.S 290 in Manor (TX),30.3490086,-97.5579638,1,78653,OK
+708,"2000 Cedar Bend Dr, Austin, TX 78758, USA",2000 Cedar Bend Drive in Austin (TX),30.409552,-97.69798499999999,1,78758,OK
+709,"8210 Alcorn Cir, Austin, TX 78748, USA",8210 Alcorn Circle in Austin (TX),30.1796753,-97.7948863,1,78748,OK
